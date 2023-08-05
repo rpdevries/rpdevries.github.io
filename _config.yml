@@ -1,0 +1,9 @@
+# Site settings
+title: rpdevries site
+author:
+  name: rpdevries
+  email: ...
+description: "Personal site made with Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
