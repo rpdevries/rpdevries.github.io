@@ -1,8 +1,8 @@
 # Site settings
 title: R. DeVries
 author: R. DeVries
-  name: R. DeVries
-  email: your-email@domain.com
+  - name: R. DeVries
+  - email: your-email@domain.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -51,7 +51,7 @@ minima:
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
-# order as they should show up. (?) Also orders them???
+# order as they should show up. Also orders them.
 #
 # Page oranization on the header bar
 header_pages:
