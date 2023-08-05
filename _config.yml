@@ -1,0 +1,9 @@
+# Site settings
+title: R. DeVries
+author: R. DeVries
+  name: R. DeVries
+  email: your-email@domain.com
+description: "Created using Jekyll/Minima on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
