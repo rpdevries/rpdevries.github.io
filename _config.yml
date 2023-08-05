@@ -1,6 +1,7 @@
 # Site settings
 title: R. DeVries
-author: R. DeVries
+# leave author: blank!
+author:
   name: R. DeVries
   email: your-email@domain.com
 
