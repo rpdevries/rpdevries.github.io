@@ -6,4 +6,4 @@ author:
 description: "Personal site made with Jekyll on GH-Pages."
 
 # Build settings
-remote_theme: benbalter/retlab
+remote_theme: jekyll/minima
