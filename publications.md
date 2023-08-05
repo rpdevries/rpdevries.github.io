@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications & CV
+title: Publications/CV
 ---
 
 ## About Me
