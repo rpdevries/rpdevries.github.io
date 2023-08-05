@@ -52,7 +52,7 @@ minima:
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
-# order as they should show up. Also orders them.
+# order as they should show up.
 #
 # Page oranization on the header bar
 header_pages:
