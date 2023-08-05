@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications/CV
+permalink: /publications/
 ---
 
 ![image tooltip here](/assets/Profile_May2023-TINY.png)
