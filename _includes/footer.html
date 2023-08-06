@@ -24,7 +24,10 @@
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ {{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}} | escape }}</p>
+        {% if page.description %}
+          <p>{{ page.description | escape }}</p>
+        {% else %}
+          <p>{{ site.description | escape }}</p>
       </div>
     </div>
 
