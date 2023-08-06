@@ -24,6 +24,7 @@
       {%- endif %}
       </div>
       <div class="footer-col">
+        <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
         <p>{{ site.description | escape }}</p>
       </div>
     </div>
