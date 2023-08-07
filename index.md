@@ -2,10 +2,8 @@
 layout: home 
 ---
 
-![Raina DeVries profile picture](/assets/Profile_May2023-TINY.png)
+![Raina DeVries profile picture](/assets/Profile_May2023.png)
 
-My name is Raina DeVries. I am a paleontologist working at the University of Chicago.
-
-I created this website to introduce myself and show a record of my research projects.
+My name is Raina DeVries, and I am a paleontologist currently working in the Sereno Lab at the University of Chicago. SOMETHING. I started working in the Sereno Lab in 2020 while I was obtaining my bachelor's degree in mathematics at the University of Chicago. My work involves the digital restoration of dinosaur skeletons and muscles and software development. My dinosaur research is primarily focused on Thyreophora, the clade of armored dinosaurs. The images below can be selected to reveal further details about my research.
 
 # Research
