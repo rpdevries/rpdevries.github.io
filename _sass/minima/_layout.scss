@@ -309,9 +309,9 @@
   width: 100%;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  column-gap: 2px; //new
-  justify-content: left; //center;
-  padding: 0; //o.g. 4px;
+  //column-gap: 2px; //new
+  justify-content: center;
+  padding: 4px;
 }
 
 .box {
