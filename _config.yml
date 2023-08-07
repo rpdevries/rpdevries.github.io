@@ -58,6 +58,7 @@ minima:
 header_pages:
   - publications.md
   - contact.md
+  - Thyreophorans.md #testing
 
 # Set to `true` to show excerpts on the homepage.
 #
