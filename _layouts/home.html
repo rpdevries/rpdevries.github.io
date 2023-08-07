@@ -9,6 +9,8 @@ layout: base
 
   {{ content }}
 
+  <!–– Includes gallery ––> 
+  {% include my-gallery.html folder="myfolder" %}
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
