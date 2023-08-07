@@ -2,6 +2,7 @@
 layout: page
 title: Thyreophorans
 permalink: /04_Thyreophorans/
+description: Thyreophoran dinosaur research.
 ---
 
 ## Project 2
