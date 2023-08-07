@@ -11,8 +11,9 @@ Misc. description
 
 ## Publications
 
-THUMBNAIL. 
-Digital restoration...
+THUMBNAIL. <br> 
+[Reproducible Digital Restoration of Fossils Using <em>Blender</em>](https://doi.org/10.3389/feart.2022.833379) 
+DeVries, R. P., Sereno, P. C., Vidal, D., & Baumgart, S. L. (2022). Reproducible Digital Restoration of Fossils Using <em>Blender</em>. <em>Frontiers in Earth Science, 10</em>. doi.org/10.3389/feart.2022.833379
 
 ## Education
 
