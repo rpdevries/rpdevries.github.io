@@ -10,7 +10,7 @@ layout: base
   {{ content }}
 
   <!–– Includes gallery ––> 
-  {% include my-gallery.html folder="myfolder" %}
+  {% include my-gallery.html folder="/assets/gallery" %}
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
