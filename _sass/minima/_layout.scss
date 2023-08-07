@@ -308,7 +308,7 @@
 .image-gallery {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); //o.g. 200px,
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   grid-column-gap: 10px; //new
   grid-row-gap: 10px; //new
   justify-content: center;
@@ -324,7 +324,7 @@
 
 .img-gallery {
   width: 100%;
-  height: 250px; //o.g. 200px,
+  height: 200px;
   object-fit: cover;
   transform: scale(1);
   transition: all 0.3s ease-in-out;
