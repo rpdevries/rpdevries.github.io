@@ -5,7 +5,8 @@
   {% if file.extname == '.png' %}
     {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
-       <div class="box"><a href="{{ "/Thyreophorans/" | relative_url }}">
+      let loc = "/"+file.name.slice(3,-4)+"/";
+       <div class="box"><a href="{{ loc | relative_url }}">
          <img src="{{ site.imagesurl }}{{file.name }} " alt="{{ filename }}"  class="img-gallery" />
        </a></div>
       {% endif %}
