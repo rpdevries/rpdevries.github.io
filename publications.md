@@ -15,4 +15,6 @@ DeVries, R. P., Sereno, P. C., Vidal, D., & Baumgart, S. L. (2022). Reproducible
 
 ## Education
 
-UofC LOGO. BA Math
+![UChicago Logo](/assets/UofC-logo-80px.png) <br>
+University of Chicago <br>
+BA, Mathematics (Sep 2016 - Jun 2020)
