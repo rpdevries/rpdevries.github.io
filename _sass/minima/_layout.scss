@@ -309,8 +309,8 @@
   width: 100%;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  grid-template-rows: repeat(auto-fill, minmax(200px, 1fr)); //added
-  justify-content: center;
+  column-gap: 2px; //new
+  justify-content: left; //center;
   padding: 0; //o.g. 4px;
 }
 
