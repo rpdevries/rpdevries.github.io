@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thyreophorans
-permalink: /Thyreophorans/
+permalink: /04_Thyreophorans/
 ---
 
 ## Project 2
