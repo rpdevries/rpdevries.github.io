@@ -5,9 +5,7 @@ permalink: /publications/
 description: List of publications and academic history (CV).
 ---
 
-Misc. description
-
-![Stack of books](/assets/Publications-300px.png)
+A list of my publications and academic history.
 
 ## Publications
 
