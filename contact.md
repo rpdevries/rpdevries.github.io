@@ -7,6 +7,7 @@ description: The University of Chicago. Department of Organismal Biology & Anato
 
 ![Raina DeVries profile picture](/assets/Profile_May2023-TINY.png)
 
+Email me at:<br>
 [rpdevries@uchicago.edu](rpdevries@uchicago.edu)
 
-The University of Chicago. Department of Organismal Biology & Anatomy. Paul Sereno Lab. Researcher (Staff).
+My social media links are posted below.
