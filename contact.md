@@ -12,4 +12,6 @@ Email me at:<br>
 <!--[rpdevries@uchicago.edu](mailto:rpdevries@uchicago.edu)-->
 
 My social media links are posted below. <br>
-links.html
+for (entry in site.minima.social_links){
+  include social-item.html item = entry
+}
