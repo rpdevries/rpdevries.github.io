@@ -2,7 +2,7 @@
 layout: page
 title: Publications/CV
 permalink: /publications/
-description: List of publications and academic history (CV).
+description: List of publications and academic history.
 ---
 
 A list of my publications and academic history.
