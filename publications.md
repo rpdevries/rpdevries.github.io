@@ -11,7 +11,8 @@ A list of my publications and academic history.
 
 ![Fossil bone being restored](/assets/RDRoFUB-f7-small.png) <br>
 [Reproducible Digital Restoration of Fossils Using <em>Blender</em>](https://doi.org/10.3389/feart.2022.833379) <br>
-DeVries, R. P., Sereno, P. C., Vidal, D., & Baumgart, S. L. (2022). Reproducible Digital Restoration of Fossils Using <em>Blender</em>. <em>Frontiers in Earth Science, 10</em>. doi.org/10.3389/feart.2022.833379
+DeVries, R. P., Sereno, P. C., Vidal, D., & Baumgart, S. L. (2022). Reproducible Digital Restoration of Fossils Using <em>Blender</em>. <em>Frontiers in Earth Science, 10</em>. doi.org/10.3389/feart.2022.833379 <br> <br>
+Supplemental Videos & Documents (scroll to bottom of page): <https://figshare.com/collections/_/5840636>
 
 ## Education
 
