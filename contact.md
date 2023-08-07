@@ -12,3 +12,4 @@ Email me at:<br>
 <!--[rpdevries@uchicago.edu](mailto:rpdevries@uchicago.edu)-->
 
 My social media links are posted below.
+{%- include social.html -%}
