@@ -8,6 +8,7 @@ description: The University of Chicago. Department of Organismal Biology & Anato
 ![Raina DeVries profile picture](/assets/Profile_May2023-TINY.png)
 
 Email me at:<br>
-[rpdevries@uchicago.edu](mailto:rpdevries@uchicago.edu)
+<rpdevries@uchicago.edu>
+<!--[rpdevries@uchicago.edu](mailto:rpdevries@uchicago.edu)-->
 
 My social media links are posted below.
