@@ -7,11 +7,11 @@ description: The University of Chicago. Department of Organismal Biology & Anato
 
 ![Ankylosaur with mail](/assets/AnkylosaurMail-R.png)
 
-Email me at:<br>
+#### Email me at:
 <rpdevries@uchicago.edu>
 <!--[rpdevries@uchicago.edu](mailto:rpdevries@uchicago.edu)-->
 
-My social media links are posted here: <br>
+#### My social media links are posted here:
 <ul class="social-media-list">
 {%- for entry in site.minima.social_links -%}
   {%- include social-item.html item = entry -%}
