@@ -24,7 +24,7 @@ Traveling out West to unearth a new diplocodoid dinosaur - digging in the dirt w
 
 | <img src="/assets/post-imgs/CamarasaurusTooth_WY2019.png" alt="Camarasaurus tooth, WY 2019" width=380px> |
 |:--:|
-|<sup> A *Camarasaurus* tooth that I found near the site. </sup>|
+|<sup> A *Camarasaurus* tooth that I found near the dig site. </sup>|
 
 <!--
 | <img src="/assets/post-imgs/TherapodFootprints_WY2019.png" alt="Therapod footprints, WY 2019" width=380px> |
