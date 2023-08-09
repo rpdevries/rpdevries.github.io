@@ -1,6 +1,6 @@
 ---
 layout: page-special
-title: Posts
+title: POSTS
 permalink: /posts/
 description: Dinosaur-related adventures.
 ---
