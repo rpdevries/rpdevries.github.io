@@ -16,6 +16,6 @@ Supplemental Videos & Documents (scroll to bottom of page): <https://figshare.co
 
 ## Education
 
-![UChicago Logo](/assets/UofC-logo-80px.png) <br>
+![UChicago Logo](/assets/UofC-logo-50px.png) <br>
 #### University of Chicago
 BA, Mathematics (Sep 2016 - Jun 2020)
