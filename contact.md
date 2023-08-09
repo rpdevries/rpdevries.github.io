@@ -5,7 +5,8 @@ permalink: /contact/
 description: The University of Chicago. Department of Organismal Biology & Anatomy. Sereno Lab. Researcher (Staff).
 ---
 
-![Ankylosaur with mail](/assets/AnkylosaurMail-R.png)
+<!--![Ankylosaur with mail](/assets/AnkylosaurMail-square.png)-->
+<img src="/assets/AnkylosaurMail-square.png" alt="Ankylosaur with mail" width=200px height=200px>
 
 #### Email me at:
 <rpdevries@uchicago.edu>
