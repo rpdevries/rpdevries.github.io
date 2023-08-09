@@ -7,9 +7,25 @@ description: Fossil restoration research, including retrodeformation and reconst
 
 ### [Reproducible Digital Restoration of Fossils Using <em>Blender</em>](https://doi.org/10.3389/feart.2022.833379) 
 
-| ![Fossil bone being restored](/assets/RDRoFUB-f7-small.png) |
-| :--: |
-| Digital restoration of the frontal bone. The blue line represents the  midline of the skull. |
+![Fossil bone being restored](/assets/RDRoFUB-f7-small.png) | &nbsp; | &nbsp;
+--- | --- | ---
+Digital restoration of the frontal bone. The blue line represents the  midline of the skull. | &nbsp; | &nbsp;
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit...
+
+<figure>
+  <img src="/assets/RDRoFUB-f7-small.png" alt="my alt text"/>
+  <figcaption>Digital restoration of the frontal bone. The blue line represents the  midline of the skull.</figcaption>
+</figure>
+
+Vestibulum eu vulputate magna...
+
+### Tables
+
+| <div style="width:290px">property</div> | description                           |
+| --------------------------------------- | ------------------------------------- |
+| `border-bottom-right-radius`            | Defines the shape of the bottom-right |
+
 
 <ul> <li style="list-style-type: none;">
 DeVries, R. P., Sereno, P. C., Vidal, D., & Baumgart, S. L. (2022). Reproducible Digital Restoration of Fossils Using <em>Blender</em>. <em>Frontiers in Earth Science, 10</em>. doi.org/10.3389/feart.2022.833379 <br> 
