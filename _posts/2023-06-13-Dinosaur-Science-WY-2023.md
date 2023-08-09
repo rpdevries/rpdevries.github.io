@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dinosaur Science 2023, Trip to Wyoming
+title: Dinosaur Science 2023
 permalink: /04_DinosaurScience_WY2023/
 description: Dinosaur-related adventures.
 categories: updates
