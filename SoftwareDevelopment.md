@@ -5,10 +5,8 @@ permalink: /01_SoftwareDeveloper/
 description: Software development to assist paleontological research.
 ---
 
-## Project 2
+## FossilScope
 
-Project 2
+<!-- Put most of poster stuff on here. -->
 
-## Project 1
-
-Project 1
+<img align=right src="/assets/EKG" alt="Stegosaurus graphically rendered by O.C. Marsh." width=230px>
