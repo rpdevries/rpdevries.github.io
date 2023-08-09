@@ -6,7 +6,7 @@ description: The University of Chicago. Department of Organismal Biology & Anato
 ---
 
 <!--![Ankylosaur with mail](/assets/AnkylosaurMail-square.png)-->
-<img src="/assets/AnkylosaurMail-square.png" alt="Ankylosaur with mail" width=200px height=200px>
+<img src="/assets/AnkylosaurMail-R.png" alt="Ankylosaur with mail" width=248px>
 
 #### Email me at:
 <rpdevries@uchicago.edu>
