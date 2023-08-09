@@ -8,7 +8,7 @@ tags: dinosaur class dig UChicago WY 2023 sauropod
 published: true
 ---
 
-No longer an undergraduate, I returned to Wyoming to visit the dig site that first sparked my interest in paleontology. There were a few bones of the new diplodocoid left to excavate... Carrying a 300lb fossil vertebra up a steep and muddy incline...
+I returned to Wyoming to revisit the dig site that first sparked my interest in paleontology, but this time as a researcher and not as an undergraduate. There were a few bones of the new diplodocoid left to excavate.
 
 <!--
 Traveling out West to unearth a new diplocodoid dinosaur - digging in the dirt with my bare hands, a geohammer, a jackhammer, covered in sweat, dirt, and plaster - was my first introduction to vertebrate paleontology. Guided by veteran paleontologist Prof. Paul Sereno, I and the other students of UChicago's 2019 Dinosaur Science course ventured into the rolling hills of Wyoming to the Jurassic Morrison Formation - home to famous dinosaurs such as *Allosaurus*, *Camarasaurus*, and *Stegosaurus* - to finish the excavation of a 15-ton diplodocoid. -->
@@ -29,9 +29,11 @@ Traveling out West to unearth a new diplocodoid dinosaur - digging in the dirt w
 |:--:|
 | <sup> Final excavation day of the fossil diplodocoid vertebra. <br> From left to right: Julia Y., Raina DeVries, Evan Saitta, Paul Sereno (back), Dennis R. (front), George C., Dylan P. <br> In the fossil pit: Joshua W., Emma M. <br> PC: Daniel Vidal </sup> |
 
+Carrying a 300lb fossil vertebra up a steep and muddy incline...
+
 | <img src="/assets/post-imgs/GGG.png" alt="Carrying the fossil up, WY 2023" width=380px> |
 |:--:|
-| <sup> Paul, Dan, Evan, George, and others carry the diplodocoid vertebra up the muddy incline. <br> PC: Emma Montgomery </sup> |
+| <sup> Paul S., Dan V., Evan S., George C., and others carry the diplodocoid vertebra up the muddy incline. <br> PC: Emma Montgomery </sup> |
 
 | <img src="/assets/post-imgs/Rabbit_WY2023.png" alt="Rabbit watching, WY 2023" width=380px> |
 |:--:|
