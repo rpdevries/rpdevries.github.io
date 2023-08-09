@@ -27,7 +27,7 @@ Some Morrison mudstone is very tough; we needed to break it up with a jackhammer
 
 | <img src="/assets/post-imgs/DiggingForFossils_WY2019.png" alt="Digging for fossils, WY 2019" width=220px> |
 |:--:|
-|<sup> Using a jackhammer, we break up the tough rocks surrounding the fossil. </sup>|
+|<sup> Using a jackhammer, we break up the tough rocks surrounding the fossil. <br> PC: Spencer Pevsner </sup>|
 
 Inspecting some of the loose fragments that were turned up by excavation, I came across small, black rock much darker than its surroundings. It happened to be the identifying tooth of a dinosaur in close proximity to the diplodocoid: a *Camarasaurus*.
 
