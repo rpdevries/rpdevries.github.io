@@ -7,7 +7,7 @@ description: Fossil restoration research, including retrodeformation and reconst
 
 ### [Reproducible Digital Restoration of Fossils Using <em>Blender</em>](https://doi.org/10.3389/feart.2022.833379) 
 
-{% include video.html %} 
+{% include RDRoFUB-SMov2.html %} 
 
 <sup> Video animation of the digital restoration of the frontal bone. </sup>
 
