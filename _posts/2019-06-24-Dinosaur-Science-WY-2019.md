@@ -11,7 +11,7 @@ published: true
 Traveling out West to unearth a new diplocodoid dinosaur - digging in the dirt with my bare hands, a geohammer, a jackhammer, covered in sweat, dirt, and plaster - was my first introduction to vertebrate paleontology. Guided by veteran paleontologist Prof. Paul Sereno, I and the other students of UChicago's 2019 Dinosaur Science course ventured into the rolling hills of Wyoming to the Jurassic Morrison Formation - home to famous dinosaurs such as *Allosaurus*, *Camarasaurus*, and *Stegosaurus* - to finish the excavation of a 15-ton diplodocoid.
 <br>
 
-The diplodocoid's fossilized remains rested on the side of a rust-red and blue-grey Morrison hill. 
+We arrived at the digsite. The diplodocoid's fossilized remains rested on the side of a rust-red and blue-grey Morrison hill. 
 
 | <img src="/assets/post-imgs/MorrisonHills_WY2019.png" alt="Morrison Formation red hills, WY 2019" width=380px> |
 |:--:|
@@ -23,18 +23,21 @@ After a flurry of shovel-work, we managed to reach the original layer of rock ma
 |:--:|
 |<sup> The excavation in progress. Several broken ribs and a scapula are visible. </sup>|
 
+Some Morrison mudstone is very tough, and we needed to break it up with a jackhammer to get at the fossil.
+
 | <img src="/assets/post-imgs/DiggingForFossils_WY2019.png" alt="Digging for fossils, WY 2019" width=220px> |
 |:--:|
 |<sup> Using a jackhammer, we break up the tough rocks surrounding the fossil. </sup>|
 
+Inspecting some of the loose fragments that were turned up by excavation, I came across small, black rock much darker than its surroundings. It happened to be the identifying tooth of a dinosaur in close proximity to the diplodocoid: a *Camarasaurus*.
+
 | <img src="/assets/post-imgs/CamarasaurusTooth_WY2019.png" alt="Camarasaurus tooth, WY 2019" width=380px> |
 |:--:|
-|<sup> A *Camarasaurus* tooth that I found near the dig site. </sup>|
+|<sup> A *Camarasaurus* tooth that I found at the dig site. </sup>|
 
-<!--
-| <img src="/assets/post-imgs/TherapodFootprints_WY2019.png" alt="Therapod footprints, WY 2019" width=380px> |
-|:--:|
-|<sup> Therapod footprints at a park nearby. </sup>| -->
+In the end, the expedition was a success. The forelimbs and dorsal vertebrae of the diplodocoid were recovered. All of the excavated bones were covered in white plaster and burlap (pictured below) and then transported for further identification and research. 
+<br>
+Under the boundless, clear-blue skies; in the shadows cast by the burning, rust-colored hills; above a long-necked giant, 150 million years old; toiling away, exhausted, exuberant; to be the first to uncover the mysteries of a never-before-seen sauropod dinosaur. And that was how I knew this trip would be just the beginning of my many dinosaur adventures.
 
 | <img src="/assets/post-imgs/DinoSci_WY2019_1.png" alt="Dinosaur Science Class, WY 2019" width=380px> |
 |:--:|
