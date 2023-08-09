@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dinosaur Science 2019, Trip to Wyoming
+title: Dinosaur Science 2019
 permalink: /01_DinosaurScience_WY2019/
 description: Dinosaur-related adventures.
 categories: updates
