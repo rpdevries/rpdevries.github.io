@@ -1,4 +1,4 @@
-<div class ="image-gallery">
+<div class ="image-gallery-posts">
   {% assign sorted = site.static_files | sort: 'date' | reverse %}
   {% for file in sorted %}
   {% if file.path contains include.folder %}
