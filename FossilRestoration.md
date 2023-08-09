@@ -9,7 +9,7 @@ description: Fossil restoration research, including retrodeformation and reconst
 
 {% include RDRoFUB-SMov2.html %} 
 
-<sup> Video animation of the digital restoration of the frontal bone. </sup>
+Video animation of the digital restoration of the frontal bone.
 
 <img src="/assets/RDRoFUB-f7.jpg" alt="Fossil bone being restored" width=380px>
 
