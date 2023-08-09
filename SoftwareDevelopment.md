@@ -5,7 +5,7 @@ permalink: /01_SoftwareDeveloper/
 description: Software development to assist paleontological research.
 ---
 
-## FossilScope
+## *FossilScope*
 
 <!-- Put most of poster stuff on here. -->
 
