@@ -1,0 +1,1 @@
+GRID FILES CAN ONLY BE **.PNG** !!!
