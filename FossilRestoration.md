@@ -7,6 +7,9 @@ description: Fossil restoration research, including retrodeformation and reconst
 
 ### [Reproducible Digital Restoration of Fossils Using <em>Blender</em>](https://doi.org/10.3389/feart.2022.833379) 
 
+{% include video.html id=/assets/RDRoFUB-SMov2.mp4 %}
+
+<!--
 [![](/assets/RDRoFUB-f7-small.png)](/assets/RDRoFUB-SMov2.mp4)
 
 [![Alternate Text](/assets/RDRoFUB-f7-small.png)](https://github.com/rpdevries/rpdevries.github.io/raw/main/assets/RDRoFUB-SMov2.mp4)
@@ -16,7 +19,6 @@ description: Fossil restoration research, including retrodeformation and reconst
 [![Fossil bone being restored, animated]({[/assets/RDRoFUB-f7-small.png](https://github.com/rpdevries/rpdevries.github.io/raw/main/assets/RDRoFUB-SMov2.mp4)})]({https://github.com/rpdevries/rpdevries.github.io/raw/main/assets/RDRoFUB-SMov2.mp4})
 
 https://github.com/rpdevries/rpdevries.github.io/raw/main/assets/RDRoFUB-SMov2.mp4
-<!--
 ![Fossil bone being restored, animated](/assets/RDRoFUB-SMov2.mp4)
 
 [![Alternate Text]({image-url})]({video-url} "Link Title")
