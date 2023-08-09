@@ -18,7 +18,7 @@ A list of my publications and academic history.
   
 ## Education
 
-| ![UChicago Logo](/assets/UofC-logo-50px.png) | University of Chicago. &nbsp; BA, Mathematics (Sep 2016 - Jun 2020). |
+| ![UChicago Logo](/assets/UofC-logo-50px.png) | University of Chicago. BA, Mathematics (Sep 2016 - Jun 2020). |
 |:---|:---|
 
 <!-- Can't scale an image in a table "<img ... >"
