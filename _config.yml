@@ -52,8 +52,9 @@ minima:
 #
 # Page oranization on the header bar
 header_pages:
-  - publications.md
-  - contact.md
+  - Posts.md
+  - Publications.md
+  - Contact.md
 
 # Set to `true` to show excerpts on the homepage.
 #
