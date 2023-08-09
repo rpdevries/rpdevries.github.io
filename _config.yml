@@ -62,4 +62,5 @@ header_pages:
 
 # Gallery folder urls
 imagesurl: "/assets/gallery/"
+postsurl: "/assets/posts/"
 thumbsurl: "/assets/gallery/thumbs"
