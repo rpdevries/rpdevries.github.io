@@ -7,6 +7,14 @@ description: Fossil restoration research, including retrodeformation and reconst
 
 ### [Reproducible Digital Restoration of Fossils Using <em>Blender</em>](https://doi.org/10.3389/feart.2022.833379) 
 
+[![Fossil bone being restored, animated]({/assets/RDRoFUB-f7.jpg})]({/assets/RDRoFUB-SMov2.mp4})
+
+<!-- [![Alternate Text]({image-url})]({video-url} "Link Title") -->
+
+| [![Fossil bone being restored, animated]({/assets/RDRoFUB-f7.jpg})]({/assets/RDRoFUB-SMov2.mp4}) |
+|:--:|
+| <sup> FIGURE 7. Digital restoration of the frontal bone. The blue line represents the midline of the skull. (A) The frontal bone as preserved with armature superimposed. Segments are arbitrarily colored for visibility. (B) The frontal bone after brittle retrodeformation and (C) after subsequent plastic retrodeformation with cumulative 2-color tension maps documenting local mesh distortions. Each of the lower three segments (purple, green, pink) have been subdivided into two subsegments. The second subsegment of each division is used for plastic retrodeformation while the first subsegment retains its usage for brittle retrodeformation. (D) The restored frontal bone. </sup> |
+
 | <img src="/assets/RDRoFUB-f7.jpg" alt="Fossil bone being restored" width=380px> |
 |:--:|
 | <sup> FIGURE 7. Digital restoration of the frontal bone. The blue line represents the midline of the skull. (A) The frontal bone as preserved with armature superimposed. Segments are arbitrarily colored for visibility. (B) The frontal bone after brittle retrodeformation and (C) after subsequent plastic retrodeformation with cumulative 2-color tension maps documenting local mesh distortions. Each of the lower three segments (purple, green, pink) have been subdivided into two subsegments. The second subsegment of each division is used for plastic retrodeformation while the first subsegment retains its usage for brittle retrodeformation. (D) The restored frontal bone. </sup> |
