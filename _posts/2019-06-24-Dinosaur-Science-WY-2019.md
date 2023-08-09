@@ -37,7 +37,7 @@ Inspecting some of the loose fragments that were turned up by excavation, I came
 
 In the end, the expedition was a success. The forelimbs and dorsal vertebrae of the diplodocoid were recovered. All of the excavated bones were covered in white plaster and burlap (pictured below) and then transported for further identification and research. 
 <br> <br>
-Under the boundless, clear-blue skies; in the shadows cast by the burning, rust-colored hills; above a long-necked giant, slumbering for 150 million years; toiling away, exhausted, exuberant; to be the first to uncover the mysteries of a never-before-seen sauropod dinosaur. And that was how I knew this trip would be just the beginning of my many dinosaur adventures.
+Under the boundless, clear-blue skies; in the shadows cast by the burning, rust-colored hills; above a long-necked giant, slumbering for 150 million years; toiling away, exhausted, exuberant; to be the first to uncover the mysteries of a never-before-seen sauropod dinosaur. And that was how I knew that this trip would be just the beginning of my many dinosaur adventures.
 
 | <img src="/assets/post-imgs/DinoSci_WY2019_1.png" alt="Dinosaur Science Class, WY 2019" width=380px> |
 |:--:|
