@@ -27,4 +27,4 @@ A list of my publications and academic history.
 
 | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
 |:--:| 
-| *Space* |
+| *Space* <br> Space |
