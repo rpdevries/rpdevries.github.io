@@ -5,4 +5,4 @@ permalink: /posts/
 description: Dinosaur-related adventures.
 ---
 
-Testing
+A record of my dinosaur-related adventures.
