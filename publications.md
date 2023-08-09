@@ -18,13 +18,11 @@ A list of my publications and academic history.
   
 ## Education
 
-| ![UChicago Logo](/assets/UofC-logo-50px.png) | University of Chicago. BA, Mathematics (Sep 2016 - Jun 2020). |
+| ![UChicago Logo](/assets/UofC-logo-50px.png) | University of Chicago <br> BA, Mathematics (Sep 2016 - Jun 2020) |
 |-|-|
 | | |
 
-| A | B |
-|-|-|
-
+<!-- 
 | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
 |:--:| 
-| *Space* <br> Space |
+| *Space* <br> Space | -->
