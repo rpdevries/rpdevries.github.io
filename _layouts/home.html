@@ -12,6 +12,12 @@ layout: base
   <!–– Includes gallery ––> 
   {% include my-gallery.html folder="/assets/gallery" %}
 
+  <!-- NEW!!! -->
+  <div class="post-content">
+    <h2 class="page-heading">{"Posts"}</h2>
+    {% include my-posts-gallery.html folder="/assets/posts" %}
+  </div>
+
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
