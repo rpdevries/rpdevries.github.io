@@ -52,7 +52,7 @@ minima:
 #
 # Page oranization on the header bar
 header_pages:
-  - Posts.md
+  # - Posts.md
   - Publications.md
   - Contact.md
 
