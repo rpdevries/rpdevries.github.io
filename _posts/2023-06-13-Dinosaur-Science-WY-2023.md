@@ -33,7 +33,7 @@ Carrying a 300lb fossil vertebra up a steep and muddy incline...
 
 | <img src="/assets/post-imgs/FossilCarry_WY2023.gif" alt="Carrying the 300lbs fossil, WY 2023" width=380px> |
 |:--:|
-| <sup> Paul S., Dan V., Evan S., George C., and others carry the diplodocoid vertebra up the muddy incline. <br> PC: Emma Montgomery </sup> |
+| <sup> Paul Sereno, Daniel Vidal, Evan Saitta, George Crow, and others carry the diplodocoid vertebra up the muddy incline. <br> PC: Emma Montgomery </sup> |
 
 | <img src="/assets/post-imgs/Rabbit_WY2023.png" alt="Rabbit watching, WY 2023" width=380px> |
 |:--:|
