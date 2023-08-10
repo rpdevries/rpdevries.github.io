@@ -27,7 +27,7 @@ Traveling out West to unearth a new diplocodoid dinosaur - digging in the dirt w
 
 | <img src="/assets/post-imgs/SurroundingTheFossil_WY2023.png" alt="The fossil is almost ready!, WY 2023" width=600px> |
 |:--:|
-| <sup> Final excavation day of the fossil diplodocoid vertebra. <br> From left to right: Julia Y., Raina DeVries, Evan Saitta, Paul Sereno (back), Dennis R. (front), George C., Dylan P. <br> In the fossil pit: Joshua W., Emma M. <br> PC: Daniel Vidal </sup> |
+| <sup> Final excavation day of the fossil diplodocoid vertebra. <br> From left to right: Julia Y., Raina DeVries, Evan Saitta, Paul Sereno (back), Dennis R. (front), George C., Dylan P. &nbsp; In the fossil pit: Joshua W., Emma M. <br> PC: Daniel Vidal </sup> |
 
 Carrying a 300lb fossil vertebra up a steep and muddy incline...
 
