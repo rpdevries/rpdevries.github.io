@@ -13,7 +13,7 @@ I returned to Wyoming to revisit the dig site that first sparked my interest in 
 <!--
 Traveling out West to unearth a new diplocodoid dinosaur - digging in the dirt with my bare hands, a geohammer, a jackhammer, covered in sweat, dirt, and plaster - was my first introduction to vertebrate paleontology. Guided by veteran paleontologist Prof. Paul Sereno, I and the other students of UChicago's 2019 Dinosaur Science course ventured into the rolling hills of Wyoming to the Jurassic Morrison Formation - home to famous dinosaurs such as *Allosaurus*, *Camarasaurus*, and *Stegosaurus* - to finish the excavation of a 15-ton diplodocoid. -->
 
-| <img src="/assets/post-imgs/Mountains_WY2023.png" alt="Mountains near the dig site, WY 2023" width=380px> |
+| <img src="/assets/post-imgs/Mountains_WY2023.png" alt="Mountains near the dig site, WY 2023" width=450px> |
 |:--:|
 | <sup> Mountains near the dig site. </sup> |
 
@@ -25,7 +25,7 @@ Traveling out West to unearth a new diplocodoid dinosaur - digging in the dirt w
 |:--:|
 | <sup> Fossil excavation teamwork. <br> From top to bottom: Paul Sereno, Raina DeVries, Julia Y. <br> PC: Daniel Vidal </sup> |
 
-| <img src="/assets/post-imgs/SurroundingTheFossil_WY2023.png" alt="The fossil is almost ready!, WY 2023" width=380px> |
+| <img src="/assets/post-imgs/SurroundingTheFossil_WY2023.png" alt="The fossil is almost ready!, WY 2023" width=600px> |
 |:--:|
 | <sup> Final excavation day of the fossil diplodocoid vertebra. <br> From left to right: Julia Y., Raina DeVries, Evan Saitta, Paul Sereno (back), Dennis R. (front), George C., Dylan P. <br> In the fossil pit: Joshua W., Emma M. <br> PC: Daniel Vidal </sup> |
 
