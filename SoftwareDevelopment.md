@@ -17,7 +17,7 @@ However, neither historical nor recent skeletal restoration methods adequately d
 
 | <img src="/assets/Marsh_Stegosaurus.png" alt="Skeletal reconstruction of Stegosaurus ungulatus by O.C. Marsh." width=380px> | <img src="/assets/Dromaeosaurus_Manus.png" alt="Dromaeosaurus manus reconstruction." width=80px> |
 |:--:|:--:|
-| <sup> Fig 1a. Skeletal reconstruction of *Stegosaurus ungulatus* by O.C. Marsh. </sup> | <sup> Fig 1b. *Dromaeosaurus* manus reconstruction. </sup> |
+| <sup> **Fig 1a.** Skeletal reconstruction of *Stegosaurus ungulatus* by O.C. Marsh. </sup> | <sup> **Fig 1b.** *Dromaeosaurus* manus reconstruction. </sup> |
 
 ### *FossilScope*
 
@@ -42,4 +42,4 @@ We introduce *FossilScope*, a free application that will allow the user to inter
 
 | <img src="/assets/FossilScope_MainFig.png" alt="Click-to-select in FossilScope." width=1000px> |
 |:--:|
-| <sup> Fig 2. Clicking to select a bone (left femur of *Spinosaurus*) for inspection in *FossilScope*. </sup> |
+| <sup> **Fig 2.** Clicking to select a bone (left femur of *Spinosaurus*) for inspection in *FossilScope*. </sup> |
