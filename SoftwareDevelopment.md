@@ -42,4 +42,4 @@ We introduce *FossilScope*, a free application that will allow the user to inter
 
 | <img src="/assets/FossilScope_MainFig.png" alt="Click-to-select in FossilScope." width=1000px> |
 |:--:|
-| <sup> Fig 2. Clicking to select a bone (left femur) for inspection in *FossilScope*. </sup> |
+| <sup> Fig 2. Clicking to select a bone (left femur of *Spinosaurus*) for inspection in *FossilScope*. </sup> |
