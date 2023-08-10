@@ -40,6 +40,6 @@ Each of these steps can involve numerous decisions and manipulations that are la
 
 We introduce *FossilScope*, a free application that will allow the user to interact with a 3D digital mesh skeleton and its associated restoration data quickly and intuitively. On a digital skeletal restoration, one may click to select a bone (e.g., femur, Fig 2) or click-drag to select a bone complex (e.g., skull) to access relevant information: descriptions and images of the fossil specimens involved, an outline of the restorative steps taken, or a video that animates the restorative process. *FossilScope* is a new and intuitive way to document and bring transparency to the process of digital restoration.
 
-| <img src="/assets/FossilScope_MainFig.png" alt="Click-to-select in FossilScope." width=650px> |
+| <img src="/assets/FossilScope_MainFig.png" alt="Click-to-select in FossilScope." width=1000px> |
 |:--:|
 | <sup> Fig 2. Clicking to select a bone (left femur, green) for inspection in *FossilScope*. </sup> |
