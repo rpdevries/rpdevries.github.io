@@ -21,25 +21,29 @@ Traveling out West to unearth a new diplocodoid dinosaur - digging in the dirt w
 
 While off on my own, prospecting for fossils, . The hills were void of life, or so I thought. I was scanning the ground for fossil fragments, when I looked up and locked eyes with *Sylvilagus audubonii* - a desert cottontail. The little guy was observing my fossil findings from a safe distance.
 
-| <img src="/assets/post-imgs/Rabbit_WY2023.png" alt="Rabbit watching, WY 2023" width=420px> |
+| <img src="/assets/post-imgs/Rabbit_WY2023.png" alt="Rabbit watching, WY 2023" width=380px> |
 |:--:|
 | <sup> Unexpected but welcome fossil prospecting assistant. </sup> |
 
-Returning to the site of the diplodocoid
+After prospecting for a while, I returned to the site of the diplodocoid.
 
 | <img src="/assets/post-imgs/Excavating_WY2023.png" alt="Using the drill at the dig site 1, WY 2023" width=380px> |
 |:--:|
 | <sup> Using a drill to dig out the plaster-covered fossil. <br> PC: Daniel Vidal </sup> |
 
+E
+
 | <img src="/assets/post-imgs/DrillingAway_WY2023.png" alt="Using the drill at the dig site 2, WY 2023" width=380px> |
 |:--:|
 | <sup> Fossil excavation teamwork. <br> From top to bottom: Paul Sereno, Raina DeVries, Julia Y. <br> PC: Daniel Vidal </sup> |
+
+E
 
 | <img src="/assets/post-imgs/SurroundingTheFossil_WY2023.png" alt="The fossil is almost ready!, WY 2023" width=600px> |
 |:--:|
 | <sup> Final excavation day of the fossil diplodocoid vertebra. <br> From left to right: Julia Y., Raina DeVries, Evan Saitta, Paul Sereno (back), Dennis R. (front), George C., Dylan P. &nbsp; In the fossil pit: Joshua W., Emma M. <br> PC: Daniel Vidal </sup> |
 
-Carrying a 300lb fossil vertebra up a steep and muddy incline...
+We had to carry our prize - a 300lb diplodocoid vertebra - up the steep and muddy 300ft incline to the transport truck. However, with no helpful machines in sight, our only option was to use human labor.
 
 | <img src="/assets/post-imgs/FossilCarry_WY2023.gif" alt="Carrying the 300lbs fossil, WY 2023" width=420px> |
 |:--:|
