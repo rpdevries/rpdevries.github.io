@@ -9,13 +9,11 @@ description: Fossil restoration research, including retrodeformation and reconst
 
 Fossils are often subject to post-mortem alterations, including brittle and plastic deformation. Our aim as paleontologists is to reverse these changes to bring the fossil as close to the original *in vivo* condition as possible. Introducing [*Blender*](https://www.blender.org/) &mdash; a free and open-source 3D-graphics animation program. *Blender*'s armatures have been used to animate mesh characters since the early 2000's, and we repurpose these armatures for fossil restoration. An armature is made up of subdivisions, termed "segments," that can be translated or rotated to realign or undistort the fragments of a fossil. By using the movements of these segments, rather than sculpting, we are able to record and quantify the digital alterations made to the fossil. Building a fossil restoration pipeline using *Blender* allows for the expansion of reproducibility and data availability in paleontology.
 
-{% include RDRoFUB-SMov2.html %} 
+<!-- {% include RDRoFUB-SMov2.html %} -->
 
-Video animation of the digital restoration of the frontal bone.
-
-<img src="/assets/RDRoFUB-f7.jpg" alt="Fossil bone being restored" width=380px>
-
-<sup> FIGURE 7. Digital restoration of the frontal bone. The blue line represents the midline of the skull. (A) The frontal bone as preserved with armature superimposed. Segments are arbitrarily colored for visibility. (B) The frontal bone after brittle retrodeformation and (C) after subsequent plastic retrodeformation with cumulative 2-color tension maps documenting local mesh distortions. Each of the lower three segments (purple, green, pink) have been subdivided into two subsegments. The second subsegment of each division is used for plastic retrodeformation while the first subsegment retains its usage for brittle retrodeformation. (D) The restored frontal bone. </sup>
+| <img src="/assets/RDRoFUB-f7.jpg" alt="Fossil bone being restored" height=380px> | <img src="/assets/RDRoFUB-SMov2.gif" alt="Fossil bone being restored, video" height=380px>|
+|:--:|:--:|
+| <sup> FIGURE 7. Digital restoration of the frontal bone. The blue line represents the midline of the skull. (A) The frontal bone as preserved with armature superimposed. Segments are arbitrarily colored for visibility. (B) The frontal bone after brittle retrodeformation and (C) after subsequent plastic retrodeformation with cumulative 2-color tension maps documenting local mesh distortions. Each of the lower three segments (purple, green, pink) have been subdivided into two subsegments. The second subsegment of each division is used for plastic retrodeformation while the first subsegment retains its usage for brittle retrodeformation. (D) The restored frontal bone. </sup> | Video animation of the digital restoration of the frontal bone. |
 
 - DeVries, R. P., Sereno, P. C., Vidal, D., & Baumgart, S. L. (2022). Reproducible Digital Restoration of Fossils Using <em>Blender</em>. <em>Frontiers in Earth Science, 10</em>. doi.org/10.3389/feart.2022.833379 <br> 
 - Supplemental Videos & Documents: <https://figshare.com/collections/_/5840636>
