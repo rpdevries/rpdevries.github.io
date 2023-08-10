@@ -11,7 +11,7 @@ Fossils are often subject to post-mortem alterations, including brittle and plas
 
 <!-- {% include RDRoFUB-SMov2.html %} -->
 
-| <img src="/assets/RDRoFUB-f7.jpg" alt="Fossil bone being restored" width=400px> | <img src="/assets/RDRoFUB-SMov2.gif" alt="Fossil bone being restored, video" width=100px>|
+| <img src="/assets/RDRoFUB-f7.jpg" alt="Fossil bone being restored" width=440px> | <img src="/assets/RDRoFUB-SMov2.gif" alt="Fossil bone being restored, video" width=110px>|
 |:--:|:--:|
 | <sup> FIGURE 7. Digital restoration of the frontal bone. The blue line represents the midline of the skull. (A) The frontal bone as preserved with armature superimposed. Segments are arbitrarily colored for visibility. (B) The frontal bone after brittle retrodeformation and (C) after subsequent plastic retrodeformation with cumulative 2-color tension maps documenting local mesh distortions. Each of the lower three segments (purple, green, pink) have been subdivided into two subsegments. The second subsegment of each division is used for plastic retrodeformation while the first subsegment retains its usage for brittle retrodeformation. (D) The restored frontal bone. </sup> | Video animation of the digital restoration of the frontal bone. |
 
