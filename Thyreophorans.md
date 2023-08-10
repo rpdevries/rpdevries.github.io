@@ -5,7 +5,7 @@ permalink: /04_Thyreophorans/
 description: Thyreophoran dinosaur research.
 ---
 
-## Digital restoration of a small thyreophoran dinosaur
+### Digital restoration of a small thyreophoran dinosaur
 
 <img align=right src="/assets/StegosaurSelfie.png" alt="Me and Stegosaurus" width=230px>
 
