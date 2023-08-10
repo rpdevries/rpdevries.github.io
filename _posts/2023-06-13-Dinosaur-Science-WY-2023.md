@@ -13,7 +13,7 @@ I returned to Wyoming to revisit the dig site that first sparked my interest in 
 <!--
 Traveling out West to unearth a new diplocodoid dinosaur - digging in the dirt with my bare hands, a geohammer, a jackhammer, covered in sweat, dirt, and plaster - was my first introduction to vertebrate paleontology. Guided by veteran paleontologist Prof. Paul Sereno, I and the other students of UChicago's 2019 Dinosaur Science course ventured into the rolling hills of Wyoming to the Jurassic Morrison Formation - home to famous dinosaurs such as *Allosaurus*, *Camarasaurus*, and *Stegosaurus* - to finish the excavation of a 15-ton diplodocoid. -->
 
-| <img src="/assets/post-imgs/Mountains_WY2023.png" alt="Mountains near the dig site, WY 2023" width=450px> |
+| <img src="/assets/post-imgs/Mountains_WY2023.png" alt="Mountains near the dig site, WY 2023" width=480px> |
 |:--:|
 | <sup> Mountains near the dig site. </sup> |
 
