@@ -8,6 +8,8 @@ tags: dinosaur class dig UChicago WY 2023 sauropod
 published: true
 ---
 
+Returning to Wyoming
+
 I returned to Wyoming to revisit the dig site that first sparked my interest in paleontology, but this time as a researcher and not as an undergraduate. There were a few bones of the new diplodocoid left to excavate. 
 
 <!--
@@ -16,6 +18,14 @@ Traveling out West to unearth a new diplocodoid dinosaur - digging in the dirt w
 | <img src="/assets/post-imgs/Mountains_WY2023.png" alt="Mountains near the dig site, WY 2023" width=480px> |
 |:--:|
 | <sup> Mountains near the dig site. </sup> |
+
+While off on my own, prospecting for fossils, . The hills were void of life, or so I thought. I was scanning the ground for fossil fragments, when I looked up and locked eyes with *Sylvilagus audubonii* - a desert cottontail. The little guy was observing my fossil findings from a safe distance.
+
+| <img src="/assets/post-imgs/Rabbit_WY2023.png" alt="Rabbit watching, WY 2023" width=420px> |
+|:--:|
+| <sup> Unexpected but welcome fossil prospecting assistant. </sup> |
+
+Returning to the site of the diplodocoid
 
 | <img src="/assets/post-imgs/Excavating_WY2023.png" alt="Using the drill at the dig site 1, WY 2023" width=380px> |
 |:--:|
@@ -34,7 +44,3 @@ Carrying a 300lb fossil vertebra up a steep and muddy incline...
 | <img src="/assets/post-imgs/FossilCarry_WY2023.gif" alt="Carrying the 300lbs fossil, WY 2023" width=420px> |
 |:--:|
 | <sup> Paul Sereno, Daniel Vidal, Evan Saitta, George Crow, and others carry the diplodocoid vertebra up the muddy incline. <br> PC: Emma Montgomery </sup> |
-
-| <img src="/assets/post-imgs/Rabbit_WY2023.png" alt="Rabbit watching, WY 2023" width=420px> |
-|:--:|
-| <sup> Unexpected but welcome fossil prospecting assistant. </sup> |
