@@ -31,7 +31,7 @@ Three-dimensional digital restoration is central to paleontological research tod
 4. Reconstruction of missing parts and smoothing to repair bone. 
 5. Video animation of the restoration process.
 
-More details on fossil digital restoration [**here**](https://rainadevries.com/03_FossilRestoration/).
+More details on digital restoration [**here**](https://rainadevries.com/03_FossilRestoration/).
 
 Each of these steps can involve numerous decisions and manipulations that are largely undocumented and difficult to reproduce. The digital files for fossil specimens and their manipulations during the restoration process need to be efficiently linked to their representation in the final digital model.
 
