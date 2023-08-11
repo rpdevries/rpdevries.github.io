@@ -13,8 +13,6 @@ I returned to visit the dig site that first sparked my interest in paleontology,
 
 After arriving at camp, I was greeted with a familiar view of the mountains (below). We then traveled to the red and grey hills of the dig site. With four years between this trip and the last, the hillside encasing the dinosaur had greatly eroded, covering the exposed fossil with several feet of dirt. We used shovels and pickaxes to reach the original rock layer.
 
-### REPLACE THIS LINK WTIH EARLIER POST
-
 | <img src="/assets/post-imgs/Mountains_WY2023.png" alt="Mountains near the dig site, WY 2023" width=480px> |
 |:--:|
 | <sup> Mountains near the dig site. </sup> |
