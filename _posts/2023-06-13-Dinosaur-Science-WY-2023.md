@@ -8,7 +8,7 @@ tags: dinosaur class dig UChicago WY 2023 sauropod
 published: true
 ---
 
-I returned to visit the dig site that first sparked my interest in paleontology, but this time as a researcher and not as an undergraduate. Lead by veteran paleontologist Prof. Paul Sereno, the members of the new team - me, post-docs Daniel Vidal and Evan Saitta, and the students of UChicago's Dinosaur Science 2023 - traveled to Wyoming to finish the excavation of a new diplodocoid from the Upper Jurassic Morrison Formation. While most of the bones of the diplodocoid were excavated on the previous trip, [**Dinosaur Science 2019**](https://www.google.com), a few bones including a dorsal vertebra remained to be retrieved. 
+I returned to visit the dig site that first sparked my interest in paleontology, but this time as a researcher and not as an undergraduate. Lead by veteran paleontologist Prof. Paul Sereno, the members of the new team - me, post-docs Daniel Vidal and Evan Saitta, and the students of UChicago's Dinosaur Science 2023 - traveled to Wyoming to finish the excavation of a new diplodocoid from the Upper Jurassic Morrison Formation. While most of the bones of the diplodocoid had been excavated on the previous trip, [**Dinosaur Science 2019**](https://www.google.com), a few bones including a dorsal vertebra remained to be retrieved. 
 <br>
 
 After arriving at camp, I was greeted with a familiar view of the mountains (below). We then traveled to the red and grey hills of the dig site. With four years between this trip and the last, the hillside encasing the dinosaur had greatly eroded, covering the exposed fossil with several feet of dirt. We used shovels and pickaxes to reach the original rock layer.
