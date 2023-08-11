@@ -44,4 +44,4 @@ Despite the muddy conditions this year, we managed to retrieve the final bones o
 
 | <img src="/assets/post-imgs/FossilCarry_WY2023.gif" alt="Carrying the 300lbs fossil, WY 2023" width=420px> |
 |:--:|
-| <sup> Paul Sereno, Evan Saitta, Daniel Vidal, & George Crow carry the diplodocoid vertebra up the muddy incline. <br> PC: Emma Montgomery </sup> |
+| <sup> Paul Sereno, Evan Saitta, Daniel Vidal, & George Crow carry the diplodocoid vertebra up the muddy incline. <br> PC: Emma M. </sup> |
