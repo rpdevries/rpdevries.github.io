@@ -60,6 +60,9 @@ header_pages:
 #
 show_excerpts: true
 
+# Enable Google Analytics
+google_analytics: UA-NNNNNNNN-N
+
 # Gallery folder urls
 imagesurl: "/assets/gallery/"
 postsurl: "/assets/posts-gallery/"
