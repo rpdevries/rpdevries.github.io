@@ -8,11 +8,11 @@ description: The University of Chicago. Department of Organismal Biology & Anato
 <!--![Ankylosaur with mail](/assets/AnkylosaurMail-square.png)-->
 <img src="/assets/AnkylosaurMail-R.png" alt="Ankylosaur with mail" width=248px>
 
-#### Email me at:
+**Email me at:** <br>
 <rpdevries@uchicago.edu>
 <!--[rpdevries@uchicago.edu](mailto:rpdevries@uchicago.edu)-->
 
-#### My social media links are posted here:
+**My social media links are posted here:**
 <ul class="social-media-list">
 {%- for entry in site.minima.social_links -%}
   {%- include social-item.html item = entry -%}
