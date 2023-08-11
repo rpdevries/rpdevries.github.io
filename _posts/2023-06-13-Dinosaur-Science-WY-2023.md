@@ -43,7 +43,7 @@ We had to carry our prize, a 300-pound diplodocoid vertebra, up the steep and mu
 |:--:|
 | <sup> Paul Sereno, Evan Saitta, Daniel Vidal, & George Crow carry the diplodocoid vertebra up the muddy incline. <br> PC: Emma Montgomery </sup> |
 
-Despite the muddy conditions this year, we managed to successfully retrieve the final bones of the new diplodocoid. The dig site of the diplodocoid has now been retired. All in all, this trip was a nice farewell to my very first dig site, though this certainly isn't my last dig site.
+Despite the muddy conditions this year, we managed to successfully retrieve the final bones of the new diplodocoid. The dig site of the diplodocoid has now been retired. All in all, this trip was a nice farewell to my very first dig site.
 
 | <img src="/assets/post-imgs/Victory_WY2023.png" alt="Posing with the fossil, WY 2023" width=420px> |
 |:--:|
