@@ -5,7 +5,7 @@ permalink: /03_FossilRestoration/
 description: Fossil restoration research, including retrodeformation and reconstruction.
 ---
 
-### [Reproducible Digital Restoration of Fossils Using <em>Blender</em>](https://doi.org/10.3389/feart.2022.833379) 
+## [Reproducible Digital Restoration of Fossils Using <em>Blender</em>](https://doi.org/10.3389/feart.2022.833379) 
 
 Fossils are often subject to post-mortem alterations, including brittle and plastic deformation. Our aim as paleontologists is to reverse these changes to bring the fossil as close to the original *in vivo* condition as possible. Introducing [*Blender*](https://www.blender.org/) &mdash; a free and open-source 3D-graphics animation program. *Blender*'s armatures have been used to animate mesh characters since the early 2000's, and we repurpose these armatures for fossil restoration. An armature is made up of subdivisions, termed "segments," that can be translated or rotated to realign or undistort the fragments of a fossil. By using the movements of these segments, rather than sculpting, we are able to record and quantify the digital alterations made to the fossil. Building a fossil restoration pipeline using *Blender* allows for the expansion of reproducibility and data availability in paleontology.
 
