@@ -9,7 +9,7 @@ description: Software development to assist paleontological research.
 
 ### Fossil Restoration
 
-For over 200 years, paleontologists have been restoring the skeletons of extinct vertebrates based on fossil bones in varying states of preservation. These composite restorations involve the scaling of bones to accommodate specimens of different sizes, the completion of partial elements, and the restoration of missing elements. Completed skeletal restorations have been presented as 2D images in scientific reports (Fig 1a) or as 3D skeletal mounts in museum displays (Fig 1b). 
+For over 200 years, paleontologists have been restoring the skeletons of extinct vertebrates based on fossil bones in varying states of preservation. These composite restorations involve the scaling of bones to accommodate specimens of different sizes, the completion of partial elements, and the reconstruction of missing elements. Completed skeletal restorations have been presented as 2D images in scientific reports (Fig 1a) or as 3D skeletal mounts in museum displays (Fig 1b). 
 
 In the last 50 years, skeletal mounts based on fragile fossil material have been largely replaced by cast skeletons with internal mounting; and in the last 20 years, advances in imaging (CT scans, laser surface scans, stereophotogrammetry) have allowed for the manipulation and restoration of skeletons as 3D digital models. 
 
