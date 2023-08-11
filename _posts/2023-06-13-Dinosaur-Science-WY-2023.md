@@ -38,9 +38,10 @@ It took a while to dig out the vertebra, as there was only enough room for two p
 | <sup> Final excavation day of the fossil diplodocoid vertebra. <br> From left to right: Julia Y., Raina DeVries, Evan Saitta, Paul Sereno (back), Dennis R. (front), George C., Dylan P. &nbsp; In the fossil pit: Joshua W., Emma M. <br> PC: Daniel Vidal </sup> |
 
 We had to carry our prize, a 300-pound diplodocoid vertebra, up the steep and muddy incline to the transport truck. However, with no machines in sight, our only option was human labor. To prepare the fossil for transport, two blue tarps were laid in a cross formation on the ground. The fossil was rolled on top of the tarps and wrapped up, and then the whole thing was secured with rope. Each person took one end of the tarp, hoisted the fossil up, and walked.
+<br>
+
+Despite the muddy conditions this year, we managed to retrieve the final bones of the new diplodocoid. The dig site of the diplodocoid has now been retired. All in all, this trip was a nice farewell to my first dig site.
 
 | <img src="/assets/post-imgs/FossilCarry_WY2023.gif" alt="Carrying the 300lbs fossil, WY 2023" width=420px> |
 |:--:|
 | <sup> Paul Sereno, Evan Saitta, Daniel Vidal, & George Crow carry the diplodocoid vertebra up the muddy incline. <br> PC: Emma Montgomery </sup> |
-
-Despite the muddy conditions this year, we managed to retrieve the final bones of the new diplodocoid. The dig site of the diplodocoid has now been retired. All in all, this trip was a nice farewell to my first dig site.
