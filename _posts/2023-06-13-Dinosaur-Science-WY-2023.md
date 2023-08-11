@@ -37,7 +37,7 @@ It took a while to dig out the vertebra, as there was only enough room for two p
 |:--:|
 | <sup> Final excavation day of the fossil diplodocoid vertebra. <br> From left to right: Julia Y., Raina DeVries, Evan Saitta, Paul Sereno (back), Dennis R. (front), George C., Dylan P. &nbsp; In the fossil pit: Joshua W., Emma M. <br> PC: Daniel Vidal </sup> |
 
-We had to carry our prize - a 300lb diplodocoid vertebra - up the steep and muddy incline to the transport truck. However, with no machines in sight, our only option was human labor. To prepare the fossil for transport, two blue tarps were laid in a cross formation on the ground. The fossil was rolled on top of the tarps and wrapped up, and then the whole thing was secured with rope. Each person took one end of the tarp, hoisted the fossil up, and walked.
+We had to carry our prize, a 300-pound diplodocoid vertebra, up the steep and muddy incline to the transport truck. However, with no machines in sight, our only option was human labor. To prepare the fossil for transport, two blue tarps were laid in a cross formation on the ground. The fossil was rolled on top of the tarps and wrapped up, and then the whole thing was secured with rope. Each person took one end of the tarp, hoisted the fossil up, and walked.
 
 | <img src="/assets/post-imgs/FossilCarry_WY2023.gif" alt="Carrying the 300lbs fossil, WY 2023" width=420px> |
 |:--:|
