@@ -47,4 +47,4 @@ Despite the muddy conditions this year, we managed to retrieve the final bones o
 
 | <img src="/assets/post-imgs/Victory_WY2023.png" alt="Posing with the fossil, WY 2023" width=420px> |
 |:--:|
-| <sup> Paul Sereno, Hayden F., Daniel Vidal, & Joshua W. posing in front of the retrieved fossil. <br> PC: Unknown </sup> |
+| <sup> Paul Sereno, Hayden F., Daniel Vidal, & Joshua W. posing in front of the retrieved fossil. <br> PC: Dylan P. </sup> |
