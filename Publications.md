@@ -18,7 +18,7 @@ A list of my publications and academic history.
   
 ## Experience & Education
 
-| <img src="/assets/UofC-logo.png" alt="UChicago Logo" width=80px> | University of Chicago <br> Post-Baccalaureate Researcher <br> Sereno Lab <br> 2020 - present |
+| <img src="/assets/UofC-logo.png" alt="UChicago Logo" width=80px> | University of Chicago <br> Post-Baccalaureate Researcher, Sereno Lab <br> 2020 - present |
 |:--|:--|
 | <img src="/assets/UofC-logo.png" alt="UChicago Logo" width=80px> | **University of Chicago <br> BA, Mathematics <br> 2016 - 2020** |
 
