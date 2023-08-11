@@ -8,30 +8,37 @@ tags: dinosaur class dig UChicago WY 2023 sauropod
 published: true
 ---
 
-I decided to return to Wyoming to revisit the dig site that first sparked my interest in paleontology, but this time as a researcher and not as an undergraduate. Lead by veteran paleontologist Prof. Paul Sereno, the team traveled to Wyoming to finish the excavatin of a new diplodocoid from the Upper Jurassic Morrison Formation. While most of the bones of the new diplodocoid were excavated on the last trip - [Dinosaur Science 2019](https://www.google.com) - a few bones remained to be recovered.
+I returned to Wyoming to visit the dig site that first sparked my interest in paleontology, but this time as a researcher and not as an undergraduate. 
+
+In 2019, I had traveled to the rolling hills of Wyoming to the Jurassic Morrison Formation to dig up a new diplodocoid dinosaur
+
+red-grey mudstone. Lead by veteran paleontologist Prof. Paul Sereno, the members of the new team - me, post-docs Daniel Vidal and Evan Saitta, and the students of Dinosaur Science 2023 - traveled to Wyoming to finish the excavation of a new diplodocoid from the Upper Jurassic Morrison Formation. While most of the bones of the diplodocoid were excavated on the previous trip - [**Dinosaur Science 2019**](https://www.google.com) - a few bones, including a dorsal vertebra, remained to be retrieved. 
+<br>
+
+Arriving at the camp, I was greeted with the familiar view of mountains.
+<br>
+
+With four years between this trip and the last, the hillside encasing the dinosaur had greatly eroded, covering the fossils with several feet of dirt. We went to work with shovels and pickaxes to reach the original rock layer.
 
 ### REPLACE THIS LINK WTIH EARLIER POST
-
-<!--
-Traveling out West to unearth a new diplocodoid dinosaur - digging in the dirt with my bare hands, a geohammer, a jackhammer, covered in sweat, dirt, and plaster - was my first introduction to vertebrate paleontology. Guided by veteran paleontologist Prof. Paul Sereno, I and the other students of UChicago's 2019 Dinosaur Science course ventured into the rolling hills of Wyoming to the Jurassic Morrison Formation - home to famous dinosaurs such as *Allosaurus*, *Camarasaurus*, and *Stegosaurus* - to finish the excavation of a 15-ton diplodocoid. -->
 
 | <img src="/assets/post-imgs/Mountains_WY2023.png" alt="Mountains near the dig site, WY 2023" width=480px> |
 |:--:|
 | <sup> Mountains near the dig site. </sup> |
 
-For a short while, I went off on my own to prospect for fossils. The red hills were void of life, or so I thought. I was scanning the ground for fossil fragments, when I looked up and locked eyes with *Sylvilagus audubonii* - the desert cottontail - who had been quietly observing me from a safe distance.
+For a short while, I went off on my own to prospect for fossils. The red hills were void of life, or so I thought. I was scanning the ground for fossil fragments, when I looked up and locked eyes with *Sylvilagus audubonii* - the desert cottontail - who had been quietly observing me from a distance.
 
 | <img src="/assets/post-imgs/Rabbit_WY2023.png" alt="Rabbit watching, WY 2023" width=380px> |
 |:--:|
 | <sup> Unexpected but welcome fossil prospecting assistant. </sup> |
 
-After finding a few fossil fragments and bidding the furry critter goodbye, I returned to the site of the diplodocoid to continue with excavation. Armed with a drill, we brock the rock around and underneath the vertebra to free it from the ground.
+After finding a few fossil fragments and bidding the furry critter goodbye, I returned to the site of the diplodocoid to continue with excavation. Armed with a drill, we broke the rock underneath the dorsal vertebra to free it from the ground.
 
 | <img src="/assets/post-imgs/Excavating_WY2023.png" alt="Using the drill at the dig site 1, WY 2023" width=380px> |
 |:--:|
 | <sup> Using a drill to dig out the plaster-covered fossil. <br> PC: Daniel Vidal </sup> |
 
-Prof. Paul Sereno directs students on how to use a drill.
+Prof. Paul Sereno directs me and the students on how to use a drill.
 
 | <img src="/assets/post-imgs/DrillingAway_WY2023.png" alt="Using the drill at the dig site 2, WY 2023" width=380px> |
 |:--:|
