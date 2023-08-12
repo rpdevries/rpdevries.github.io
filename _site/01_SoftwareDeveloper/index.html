@@ -10,14 +10,25 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Software development to assist paleontological research." />
 <meta property="og:description" content="Software development to assist paleontological research." />
+<link rel="canonical" href="http://localhost:4000/01_SoftwareDeveloper/" />
+<meta property="og:url" content="http://localhost:4000/01_SoftwareDeveloper/" />
 <meta property="og:site_name" content="Raina DeVries" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Software Development" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Raina DeVries"},"description":"Software development to assist paleontological research.","headline":"Software Development","url":"/01_SoftwareDeveloper/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Raina DeVries"},"description":"Software development to assist paleontological research.","headline":"Software Development","url":"http://localhost:4000/01_SoftwareDeveloper/"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Raina DeVries" />
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Raina DeVries" /><script async src="https://www.googletagmanager.com/gtag/js?id=G-JTDGESVZ7C"></script>
+<script>
+  window['ga-disable-G-JTDGESVZ7C'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JTDGESVZ7C');
+</script>
+
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -51,13 +62,63 @@
   </header>
 
   <div class="post-content">
-    <h2 id="project-2">Project 2</h2>
+    <h2 id="fossilscope"><em>FossilScope</em></h2>
 
-<p>Project 2</p>
+<h3 id="fossil-restoration">Fossil Restoration</h3>
 
-<h2 id="project-1">Project 1</h2>
+<p>For over 200 years, paleontologists have been restoring the skeletons of extinct vertebrates based on fossil bones in varying states of preservation. These composite restorations involve the scaling of bones to accommodate specimens of different sizes, the completion of partial elements, and the reconstruction of missing elements. Completed skeletal restorations have been presented as 2D images in scientific reports (Fig 1a) or as 3D skeletal mounts in museum displays (Fig 1b).</p>
 
-<p>Project 1</p>
+<p>In the last 50 years, skeletal mounts based on fragile fossil material have been largely replaced by cast skeletons with internal mounting; and in the last 20 years, advances in imaging (CT scans, laser surface scans, stereophotogrammetry) have allowed for the manipulation and restoration of skeletons as 3D digital models.</p>
+
+<p>However, neither historical nor recent skeletal restoration methods adequately document the myriad decisions underlying the final skeletal restoration.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="/assets/Marsh_Stegosaurus.png" alt="Skeletal reconstruction of Stegosaurus ungulatus by O.C. Marsh." width="380px" /></th>
+      <th style="text-align: center"><img src="/assets/Dromaeosaurus_Manus.png" alt="Dromaeosaurus manus reconstruction." width="80px" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><sup> <strong>Fig 1a.</strong> Skeletal reconstruction of <em>Stegosaurus ungulatus</em> by O.C. Marsh. </sup></td>
+      <td style="text-align: center"><sup> <strong>Fig 1b.</strong> <em>Dromaeosaurus</em> manus reconstruction. </sup></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="fossilscope-1"><em>FossilScope</em></h3>
+
+<p><img align="right" src="/assets/Digital_Restoration_Process.png" alt="Steps of the digital restoration process." width="230px" /></p>
+
+<p>Three-dimensional digital restoration is central to paleontological research today, facilitated by advances in both hardware and software. The workflow for digital restoration of a fossil is as follows (right):</p>
+
+<ol>
+  <li>Digitization via CT, surface scanning, or photogrammetry.</li>
+  <li>Delineation through thresholding or masking.</li>
+  <li>Brittle or plastic retrodeformation to repair fractures and warps.</li>
+  <li>Reconstruction of missing parts and smoothing to repair bone.</li>
+  <li>Video animation of the restoration process.</li>
+</ol>
+
+<p>More details on digital restoration <a href="https://rainadevries.com/03_FossilRestoration/"><strong>here</strong></a>.</p>
+
+<p>Each of these steps can involve numerous decisions and manipulations that are largely undocumented and difficult to reproduce. The digital files for fossil specimens and their manipulations during the restoration process need to be efficiently linked to their representation in the final digital model.</p>
+
+<p>We introduce <em>FossilScope</em>, a free application that will allow the user to directly interact with a 3D digital skeleton and its associated restoration data quickly and intuitively. On a digital skeletal restoration, one may click to select a bone (e.g., femur, Fig 2) or click-drag to select a bone complex (e.g., skull) to access relevant information including descriptions and images of the fossil specimens involved, an outline of the restorative steps taken, or a video that animates the restorative process. <em>FossilScope</em> is a new and intuitive way to document and bring transparency to the process of digital restoration.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="/assets/FossilScope_MainFig.png" alt="Click-to-select in FossilScope." width="1000px" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><sup> <strong>Fig 2.</strong> Clicking to select a bone (left femur of <em>Spinosaurus</em>) for inspection in <em>FossilScope</em>. </sup></td>
+    </tr>
+  </tbody>
+</table>
 
   </div>
 
@@ -92,23 +153,9 @@
   </a>
 </li>
 <li>
-  <a rel="me" href="https://www.threads.net/@rainapelta" target="_blank" title="threads">
-    <svg class="svg-icon grey">
-      <use xlink:href="/assets/minima-social-icons.svg#threads"></use>
-    </svg>
-  </a>
-</li>
-<li>
   <a rel="me" href="https://twitter.com/rainapelta" target="_blank" title="twitter">
     <svg class="svg-icon grey">
       <use xlink:href="/assets/minima-social-icons.svg#twitter"></use>
-    </svg>
-  </a>
-</li>
-<li>
-  <a rel="me" href="https://www.researchgate.net/profile/Raina-Devries" target="_blank" title="researchgate">
-    <svg class="svg-icon grey">
-      <use xlink:href="/assets/minima-social-icons.svg#researchgate"></use>
     </svg>
   </a>
 </li>
@@ -120,16 +167,16 @@
   </a>
 </li>
 <li>
-  <a rel="me" href="https://orcid.org/0000-0001-8246-5503" target="_blank" title="orcid">
+  <a rel="me" href="https://www.researchgate.net/profile/Raina-Devries" target="_blank" title="researchgate">
     <svg class="svg-icon grey">
-      <use xlink:href="/assets/minima-social-icons.svg#orcid"></use>
+      <use xlink:href="/assets/minima-social-icons.svg#researchgate"></use>
     </svg>
   </a>
 </li>
 <li>
-  <a rel="me" href="https://scholar.google.com/citations?hl=en&user=Gaq7eOUAAAAJ" target="_blank" title="google_scholar">
+  <a rel="me" href="https://orcid.org/0000-0001-8246-5503" target="_blank" title="orcid">
     <svg class="svg-icon grey">
-      <use xlink:href="/assets/minima-social-icons.svg#google_scholar"></use>
+      <use xlink:href="/assets/minima-social-icons.svg#orcid"></use>
     </svg>
   </a>
 </li>

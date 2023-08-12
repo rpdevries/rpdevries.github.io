@@ -1,209 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-08-12T18:54:50-04:00</updated><id>/feed.xml</id><title type="html">Raina DeVries</title><subtitle>Paleontologist at the University of Chicago.
-</subtitle><author><name>Raina DeVries</name><email>rpdevries@uchicago.edu</email></author><entry><title type="html">Testing Categories/Tags Thyreo</title><link href="/research/thyreophoran/2023/08/06/TestPost2.html" rel="alternate" type="text/html" title="Testing Categories/Tags Thyreo" /><published>2023-08-06T00:00:00-04:00</published><updated>2023-08-06T00:00:00-04:00</updated><id>/research/thyreophoran/2023/08/06/TestPost2</id><content type="html" xml:base="/research/thyreophoran/2023/08/06/TestPost2.html">&lt;p&gt;Thyreophoran test post #1.&lt;/p&gt;</content><author><name>Raina DeVries</name><email>rpdevries@uchicago.edu</email></author><category term="research" /><category term="Thyreophoran" /><category term="thyreophoran" /><category term="dinosaur" /><category term="research" /><summary type="html">Thyreophoran test post #1.</summary></entry><entry><title type="html">Latest Update</title><link href="/demo/2023/08/05/TestPost1.html" rel="alternate" type="text/html" title="Latest Update" /><published>2023-08-05T00:00:00-04:00</published><updated>2023-08-05T00:00:00-04:00</updated><id>/demo/2023/08/05/TestPost1</id><content type="html" xml:base="/demo/2023/08/05/TestPost1.html">&lt;p&gt;Tutorial Placeholder&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-12T19:23:38-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Raina DeVries</title><subtitle>Paleontologist at the University of Chicago.
+</subtitle><author><name>Raina DeVries</name><email>rpdevries@uchicago.edu</email></author><entry><title type="html">Dinosaur Science 2023</title><link href="http://localhost:4000/04_DinosaurScience_WY2023/" rel="alternate" type="text/html" title="Dinosaur Science 2023" /><published>2023-06-13T00:00:00-04:00</published><updated>2023-06-13T00:00:00-04:00</updated><id>http://localhost:4000/Dinosaur-Science-WY-2023</id><content type="html" xml:base="http://localhost:4000/04_DinosaurScience_WY2023/">&lt;p&gt;I returned to visit the dig site that first sparked my interest in paleontology, but this time as a researcher and not as an undergraduate. Lead by veteran paleontologist Prof. Paul Sereno, the members of the new team - me, post-docs Daniel Vidal and Evan Saitta, and the students of UChicago’s Dinosaur Science 2023 - traveled to Wyoming to finish the excavation of a new diplodocoid from the Upper Jurassic Morrison Formation. While most of the bones of the diplodocoid had been excavated on the previous trip, &lt;a href=&quot;https://rainadevries.com/01_DinosaurScience_WY2019/&quot;&gt;&lt;strong&gt;Dinosaur Science 2019&lt;/strong&gt;&lt;/a&gt;, a few bones including a dorsal vertebra remained to be retrieved. 
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;This is a paragraph in my first post.
-Show off your Markdown!&lt;/p&gt;
-
-&lt;h2 id=&quot;heading-two&quot;&gt;Heading Two&lt;/h2&gt;
-
-&lt;p&gt;Any text with no empty lines between will become a paragraph.
-Leave an blank line between headings and paragraphs.
-Font can be &lt;em&gt;Italic&lt;/em&gt; or &lt;strong&gt;Bold&lt;/strong&gt;.
-Code can be highlighted with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;backticks&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Hyperlinks look like this &lt;a href=&quot;https://help.github.com/&quot;&gt;GitHub Help&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A bullet list is created using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;*&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+&lt;/code&gt;, or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-&lt;/code&gt;, like:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;dog&lt;/li&gt;
-  &lt;li&gt;cat&lt;/li&gt;
-  &lt;li&gt;muffin&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A numbered list is created using a number + &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.&lt;/code&gt;, like:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;one&lt;/li&gt;
-  &lt;li&gt;two&lt;/li&gt;
-  &lt;li&gt;three&lt;/li&gt;
-  &lt;li&gt;four&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;In Markdown, adding an image looks similar to a link.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png&quot; alt=&quot;alt text is white cat&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I found this &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:VAN_CAT.png&quot;&gt;Cat image on Wikimedia&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Horizontal rule:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A block quote.
-Is like this.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A table:&lt;/p&gt;
+&lt;p&gt;After arriving at camp, I was greeted with a familiar view of the mountains (below). We then traveled to the red and grey hills of the dig site. With four years between this trip and the last, the hillside encasing the dinosaur had greatly eroded, covering the exposed fossil with several feet of dirt. We used shovels and pickaxes to reach the original rock layer.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt;header&lt;/th&gt;
-      &lt;th&gt;column a&lt;/th&gt;
-      &lt;th&gt;column b&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/post-imgs/Mountains_WY2023.png&quot; alt=&quot;Mountains near the dig site, WY 2023&quot; width=&quot;480px&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;dogs&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;cats&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;muffins&lt;/td&gt;
-      &lt;td&gt;15&lt;/td&gt;
-      &lt;td&gt;30&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;sup&gt; Mountains near the dig site. &lt;/sup&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Raina DeVries</name><email>rpdevries@uchicago.edu</email></author><category term="demo" /><category term="first" /><category term="markdown" /><category term="example" /><summary type="html">Tutorial Placeholder</summary></entry><entry><title type="html">My Example Post</title><link href="/2016/05/20/my-example-post.html" rel="alternate" type="text/html" title="My Example Post" /><published>2016-05-20T00:00:00-04:00</published><updated>2016-05-20T00:00:00-04:00</updated><id>/2016/05/20/my-example-post</id><content type="html" xml:base="/2016/05/20/my-example-post.html">&lt;p&gt;Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.&lt;/p&gt;
+&lt;/table&gt;
 
-&lt;p&gt;No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.&lt;/p&gt;</content><author><name>Raina DeVries</name><email>rpdevries@uchicago.edu</email></author><summary type="html">Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.</summary></entry><entry><title type="html">Some articles are just so long they deserve a really long title to see if things will break well</title><link href="/misc/2016/05/20/super-long-article.html" rel="alternate" type="text/html" title="Some articles are just so long they deserve a really long title to see if things will break well" /><published>2016-05-20T00:00:00-04:00</published><updated>2016-05-20T00:00:00-04:00</updated><id>/misc/2016/05/20/super-long-article</id><content type="html" xml:base="/misc/2016/05/20/super-long-article.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;</content><author><name>Raina DeVries</name><email>rpdevries@uchicago.edu</email></author><category term="misc" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</summary></entry><entry><title type="html">This post demonstrates post content styles</title><link href="/junk/2016/05/20/this-post-demonstrates-post-content-styles.html" rel="alternate" type="text/html" title="This post demonstrates post content styles" /><published>2016-05-20T00:00:00-04:00</published><updated>2016-05-20T00:00:00-04:00</updated><id>/junk/2016/05/20/this-post-demonstrates-post-content-styles</id><content type="html" xml:base="/junk/2016/05/20/this-post-demonstrates-post-content-styles.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
-
-&lt;h2 id=&quot;some-great-heading-h2&quot;&gt;Some great heading (h2)&lt;/h2&gt;
-
-&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.&lt;/p&gt;
-
-&lt;p&gt;Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;h2 id=&quot;another-great-heading-h2&quot;&gt;Another great heading (h2)&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
-
-&lt;h3 id=&quot;some-great-subheading-h3&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
-
-&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.&lt;/p&gt;
-
-&lt;p&gt;Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
-
-&lt;h3 id=&quot;some-great-subheading-h3-1&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
-
-&lt;p&gt;Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This quote will &lt;em&gt;change&lt;/em&gt; your life. It will reveal the &lt;i&gt;secrets&lt;/i&gt; of the universe, and all the wonders of humanity. Don’t &lt;em&gt;misuse&lt;/em&gt; it.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.&lt;/p&gt;
-
-&lt;h3 id=&quot;some-great-subheading-h3-2&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
-
-&lt;p&gt;Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Hello, World!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h4 id=&quot;you-might-want-a-sub-subheading-h4&quot;&gt;You might want a sub-subheading (h4)&lt;/h4&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h4 id=&quot;but-its-probably-overkill-h4&quot;&gt;But it’s probably overkill (h4)&lt;/h4&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h5 id=&quot;could-be-a-smaller-sub-heading-pacman-h5&quot;&gt;Could be a smaller sub-heading, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pacman&lt;/code&gt; (h5)&lt;/h5&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h6 id=&quot;small-yet-significant-sub-heading--h6&quot;&gt;Small yet significant sub-heading  (h6)&lt;/h6&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h3 id=&quot;oh-hai-an-unordered-list&quot;&gt;Oh hai, an unordered list!!&lt;/h3&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;First item, yo&lt;/li&gt;
-  &lt;li&gt;Second item, dawg&lt;/li&gt;
-  &lt;li&gt;Third item, what what?!&lt;/li&gt;
-  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;oh-hai-an-ordered-list&quot;&gt;Oh hai, an ordered list!!&lt;/h3&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;First item, yo&lt;/li&gt;
-  &lt;li&gt;Second item, dawg&lt;/li&gt;
-  &lt;li&gt;Third item, what what?!&lt;/li&gt;
-  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;headings-are-cool-h2&quot;&gt;Headings are cool! (h2)&lt;/h2&gt;
-
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;p&gt;Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
-
-&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;For a short while, I went off on my own to prospect for fossils. It was completely silent; the red hills devoid of life, or so I thought. I was scanning the ground for fossil fragments when I looked up and locked eyes with &lt;em&gt;Sylvilagus audubonii&lt;/em&gt; - the desert cottontail - who had been quietly observing me from a distance.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt;Title 1&lt;/th&gt;
-      &lt;th&gt;Title 2&lt;/th&gt;
-      &lt;th&gt;Title 3&lt;/th&gt;
-      &lt;th&gt;Title 4&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/post-imgs/Rabbit_WY2023.png&quot; alt=&quot;Rabbit watching, WY 2023&quot; width=&quot;380px&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;sup&gt; An unexpected but welcome fossil-prospecting assistant. &lt;/sup&gt;&lt;/td&gt;
     &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;After finding a few fossil fragments and bidding the furry critter farewell, I returned to the site of the diplodocoid to continue with excavation. Armed with a drill, we broke through the rock underneath the dorsal vertebra to free it from the ground. The fossil (below) was covered in white plaster and burlap to stabilize it. The color of the actual fossil is black.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
     &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/post-imgs/Excavating_WY2023.png&quot; alt=&quot;Using the drill at the dig site 1, WY 2023&quot; width=&quot;380px&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;sup&gt; Using a drill to dig out the plaster-covered fossil. &lt;br /&gt; PC: Daniel Vidal &lt;/sup&gt;&lt;/td&gt;
     &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;It took a while to dig out the vertebra, as there was only enough room for two people in the pit surrounding the fossil.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
     &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/post-imgs/SurroundingTheFossil_WY2023.png&quot; alt=&quot;The fossil is almost ready!, WY 2023&quot; width=&quot;600px&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;sup&gt; Final excavation day of the fossil diplodocoid vertebra. &lt;br /&gt; From left to right: Julia Y., Raina DeVries, Evan Saitta, Paul Sereno (back), Dennis R. (front), George C., Dylan P.   In the fossil pit: Joshua W., Emma M. &lt;br /&gt; PC: Daniel Vidal &lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;We had to carry our prize, a 300-pound diplodocoid vertebra, up the steep and muddy incline to the transport truck. However, with no machines in sight, our only option was human labor. To prepare the fossil for transport, two blue tarps were laid in a cross formation on the ground. The fossil was rolled on top of the tarps and wrapped up, and then the whole thing was secured with rope. Each person took one end of the tarp, hoisted the fossil up, and walked.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Despite the muddy conditions this year, we managed to retrieve the final bones of the new diplodocoid. The dig site of the diplodocoid has now been retired. All in all, this trip was a nice farewell to my first dig site.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/post-imgs/FossilCarry_WY2023.gif&quot; alt=&quot;Carrying the 300lbs fossil, WY 2023&quot; width=&quot;420px&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;sup&gt; Paul Sereno, Evan Saitta, Daniel Vidal, &amp;amp; George Crow carry the diplodocoid vertebra up the hill. &lt;br /&gt; PC: Emma M. &lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Raina DeVries</name><email>rpdevries@uchicago.edu</email></author><category term="updates" /><category term="dinosaur" /><category term="class" /><category term="dig" /><category term="UChicago" /><category term="WY" /><category term="2023" /><category term="sauropod" /><summary type="html">I returned to visit the dig site that first sparked my interest in paleontology, but this time as a researcher and not as an undergraduate. Lead by veteran paleontologist Prof. Paul Sereno, the members of the new team - me, post-docs Daniel Vidal and Evan Saitta, and the students of UChicago’s Dinosaur Science 2023 - traveled to Wyoming to finish the excavation of a new diplodocoid from the Upper Jurassic Morrison Formation. While most of the bones of the diplodocoid had been excavated on the previous trip, Dinosaur Science 2019, a few bones including a dorsal vertebra remained to be retrieved.</summary></entry><entry><title type="html">ToScANA 2023</title><link href="http://localhost:4000/03_ToScANA_2023/" rel="alternate" type="text/html" title="ToScANA 2023" /><published>2023-05-23T00:00:00-04:00</published><updated>2023-05-23T00:00:00-04:00</updated><id>http://localhost:4000/ToScANA-2023</id><content type="html" xml:base="http://localhost:4000/03_ToScANA_2023/">&lt;p&gt;At ToScANA 2023, I presented &lt;em&gt;FossilScope&lt;/em&gt;: An Interactive Application for Documenting 3D Skeletal Restoration. &lt;em&gt;FossilScope&lt;/em&gt; is a free application that will allow the user to understand the steps taken to restore a fossil skeleton by displaying the information through direct engagement with the 3D skeletal mesh - i.e. the selection of fossil or muscle elements. The concept of &lt;em&gt;FossilScope&lt;/em&gt; was well-received, with many people excited for its release.&lt;/p&gt;
+
+&lt;p&gt;More details on &lt;em&gt;FossilScope&lt;/em&gt; &lt;a href=&quot;https://doi.org/10.3389/feart.2022.833379&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;sup&gt; ToScANA stands for Tomography for Scientific Advancement, North America &lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;replace-this-link-when-live&quot;&gt;Replace this link when live!&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://doi.org/10.3389/feart.2022.833379&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/post-imgs/ToScANA_2023.png&quot; alt=&quot;Me presenting my ToScANA poster, FossilScope&quot; width=&quot;380px&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;sup&gt; Presenting &lt;em&gt;FossilScope&lt;/em&gt; at ToScANA 2023. &lt;/sup&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -211,48 +105,90 @@ Is like this.&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt;Title 1&lt;/th&gt;
-      &lt;th&gt;Title 2&lt;/th&gt;
-      &lt;th&gt;Title 3&lt;/th&gt;
-      &lt;th&gt;Title 4&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/post-imgs/ToScANA_GroupPhoto_2023.png&quot; alt=&quot;Group photo of ToScANA 2023&quot; width=&quot;1000px&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet consectetur&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet consectetur&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;sup&gt; Group photo of everyone at ToScANA 2023. &lt;/sup&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>[&quot;Bart Simpson&quot;, &quot;Nelson Mandela Muntz&quot;]</name></author><category term="junk" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</summary></entry><entry><title type="html">Welcome To Jekyll</title><link href="/2016/05/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2016-05-20T00:00:00-04:00</published><updated>2016-05-20T00:00:00-04:00</updated><id>/2016/05/20/welcome-to-jekyll</id><content type="html" xml:base="/2016/05/20/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;/table&gt;</content><author><name>Raina DeVries</name><email>rpdevries@uchicago.edu</email></author><category term="updates" /><category term="dinosaur" /><category term="ToScANA" /><category term="UChicago" /><category term="2023" /><category term="digital-restoration" /><category term="software" /><summary type="html">At ToScANA 2023, I presented FossilScope: An Interactive Application for Documenting 3D Skeletal Restoration. FossilScope is a free application that will allow the user to understand the steps taken to restore a fossil skeleton by displaying the information through direct engagement with the 3D skeletal mesh - i.e. the selection of fossil or muscle elements. The concept of FossilScope was well-received, with many people excited for its release.</summary></entry><entry><title type="html">Dinosaur Science 2019</title><link href="http://localhost:4000/01_DinosaurScience_WY2019/" rel="alternate" type="text/html" title="Dinosaur Science 2019" /><published>2019-06-24T00:00:00-04:00</published><updated>2019-06-24T00:00:00-04:00</updated><id>http://localhost:4000/Dinosaur-Science-WY-2019</id><content type="html" xml:base="http://localhost:4000/01_DinosaurScience_WY2019/">&lt;p&gt;Traveling out West to unearth a new diplocodoid dinosaur - digging in the dirt with my bare hands, a geohammer, a jackhammer, covered in sweat, dirt, and plaster - was my first introduction to vertebrate paleontology. Guided by veteran paleontologist Prof. Paul Sereno, I and the other students of UChicago’s 2019 Dinosaur Science course ventured into the rolling hills of Wyoming to the Jurassic Morrison Formation - home to famous dinosaurs such as &lt;em&gt;Allosaurus&lt;/em&gt;, &lt;em&gt;Camarasaurus&lt;/em&gt;, and &lt;em&gt;Stegosaurus&lt;/em&gt; - to finish the excavation of a 15-ton diplodocoid.
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;We arrived at the digsite. The diplodocoid’s fossilized skeleton rested on the side of a rust-red and blue-grey Morrison hill.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/post-imgs/MorrisonHills_WY2019.png&quot; alt=&quot;Morrison Formation red hills, WY 2019&quot; width=&quot;480px&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;sup&gt; The red- and grey-banded hills of the Upper Jurassic Morrison Formation. &lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;After a flurry of shovel-work, we managed to reach the original layer of rock marked in the site maps and photographs. We then got on the ground and went to work with geohammers and picks, shovels and brushes, and most importantly, our trusty fossil glue B-72.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Raina DeVries</name><email>rpdevries@uchicago.edu</email></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/post-imgs/DinoInSitu_WY2019.png&quot; alt=&quot;Dinosaur in situ, WY 2019&quot; width=&quot;480px&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;sup&gt; The excavation in progress. Several broken ribs and a scapula are visible. &lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Some Morrison mudstone is very tough; we needed to break it up with a jackhammer to get at the fossil.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/post-imgs/DiggingForFossils_WY2019.png&quot; alt=&quot;Digging for fossils, WY 2019&quot; width=&quot;270px&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;sup&gt; Using a jackhammer, we break up the tough rocks surrounding the fossil. &lt;br /&gt; PC: Spencer Pevsner &lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Inspecting some of the loose fragments that were turned up by excavation, I came across small, black rock much darker than its surroundings. It happened to be the identifying tooth of a dinosaur in close proximity to the diplodocoid: a &lt;em&gt;Camarasaurus&lt;/em&gt;.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/post-imgs/CamarasaurusTooth_WY2019.png&quot; alt=&quot;Camarasaurus tooth, WY 2019&quot; width=&quot;380px&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;sup&gt; A &lt;em&gt;Camarasaurus&lt;/em&gt; tooth that I found at the dig site. &lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;In the end, the expedition was a success. The forelimbs and dorsal vertebrae of the diplodocoid were recovered. All of the excavated bones were covered in white plaster and burlap (pictured below) and then transported for further identification and research. 
+&lt;br /&gt; &lt;br /&gt;
+Under the boundless, clear-blue skies; in the shadows cast by the burning, rust-colored hills; above a long-necked giant, slumbering for 150 million years; toiling away, exhausted, exuberant; to be the first to uncover the mysteries of a never-before-seen sauropod dinosaur. And so this trip would mark the very beginning of many more dinosaur adventures.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/post-imgs/DinoSci_WY2019_1.png&quot; alt=&quot;Dinosaur Science Class, WY 2019&quot; width=&quot;860px&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;sup&gt; The class of Dinosaur Science, 2019. &lt;br /&gt; The large, white plaster cast contains the forelimbs and dorsal vertebrae of the diplodocoid. &lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Raina DeVries</name><email>rpdevries@uchicago.edu</email></author><category term="updates" /><category term="dinosaur" /><category term="class" /><category term="dig" /><category term="UChicago" /><category term="WY" /><category term="2019" /><category term="sauropod" /><summary type="html">Traveling out West to unearth a new diplocodoid dinosaur - digging in the dirt with my bare hands, a geohammer, a jackhammer, covered in sweat, dirt, and plaster - was my first introduction to vertebrate paleontology. Guided by veteran paleontologist Prof. Paul Sereno, I and the other students of UChicago’s 2019 Dinosaur Science course ventured into the rolling hills of Wyoming to the Jurassic Morrison Formation - home to famous dinosaurs such as Allosaurus, Camarasaurus, and Stegosaurus - to finish the excavation of a 15-ton diplodocoid.</summary></entry></feed>

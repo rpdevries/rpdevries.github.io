@@ -10,14 +10,25 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Fossil restoration research, including retrodeformation and reconstruction." />
 <meta property="og:description" content="Fossil restoration research, including retrodeformation and reconstruction." />
+<link rel="canonical" href="http://localhost:4000/03_FossilRestoration/" />
+<meta property="og:url" content="http://localhost:4000/03_FossilRestoration/" />
 <meta property="og:site_name" content="Raina DeVries" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Fossil Restoration" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Raina DeVries"},"description":"Fossil restoration research, including retrodeformation and reconstruction.","headline":"Fossil Restoration","url":"/03_FossilRestoration/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Raina DeVries"},"description":"Fossil restoration research, including retrodeformation and reconstruction.","headline":"Fossil Restoration","url":"http://localhost:4000/03_FossilRestoration/"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Raina DeVries" />
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Raina DeVries" /><script async src="https://www.googletagmanager.com/gtag/js?id=G-JTDGESVZ7C"></script>
+<script>
+  window['ga-disable-G-JTDGESVZ7C'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JTDGESVZ7C');
+</script>
+
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -51,13 +62,46 @@
   </header>
 
   <div class="post-content">
-    <h2 id="project-2">Project 2</h2>
+    <h2 id="reproducible-digital-restoration-of-fossils-using-blender"><a href="https://doi.org/10.3389/feart.2022.833379">Reproducible Digital Restoration of Fossils Using <em>Blender</em></a></h2>
 
-<p>Project 2</p>
+<p>Fossils are often subject to post-mortem alterations, including brittle and plastic deformation. Our aim as paleontologists is to reverse these changes to bring the fossil as close to the original <em>in vivo</em> condition as possible. For this purpose, we use <a href="https://www.blender.org/"><em>Blender</em></a>, a free and open-source 3D-graphics animation program. <em>Blender</em>’s armatures are classically used to animate mesh characters. I have repurposed these armatures for fossil restoration. An armature is made up of subdivisions, termed “segments,” that can be translated or rotated. When the segments are associated with an overlying bone mesh, they can be moved to realign or undistort the fragments of a fossil. By using armatures to restore fossils, rather than sculpting, the user can record and quantify the digital alterations made to the fossil. Building a fossil restoration pipeline using <em>Blender</em> enhances data reproducibility and availability in paleontology.</p>
 
-<h2 id="project-1">Project 1</h2>
+<!-- <div class="embed-container">
+  <iframe
+      src="https://widgets.figshare.com/articles/19167158/embed?show_title=1"
+      width="380"
+      height="450"
+      frameborder="0"
+      allowfullscreen="true"
+      allow="autoplay">
+  </iframe>
+</div>
+ -->
 
-<p>Project 1</p>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="/assets/RDRoFUB-f7.jpg" alt="Fossil bone being restored" width="500px" /></th>
+      <th style="text-align: center"><img src="/assets/RDRoFUB-SMov2.gif" alt="Fossil bone being restored, video" width="125px" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><sup> FIGURE 7. Digital restoration of the frontal bone. The blue line represents the midline of the skull. (A) The frontal bone as preserved with armature superimposed. Segments are arbitrarily colored for visibility. (B) The frontal bone after brittle retrodeformation and (C) after subsequent plastic retrodeformation with cumulative 2-color tension maps documenting local mesh distortions. Each of the lower three segments (purple, green, pink) have been subdivided into two subsegments. The second subsegment of each division is used for plastic retrodeformation while the first subsegment retains its usage for brittle retrodeformation. (D) The restored frontal bone. </sup></td>
+      <td style="text-align: center">Video animation of the digital restoration of the frontal bone.</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>DeVries, R. P., Sereno, P. C., Vidal, D., &amp; Baumgart, S. L. (2022). Reproducible Digital Restoration of Fossils Using <em>Blender</em>. <em>Frontiers in Earth Science, 10</em>. doi.org/10.3389/feart.2022.833379 <br /></li>
+  <li>Supplemental Videos &amp; Documents: <a href="https://figshare.com/collections/_/5840636">https://figshare.com/collections/_/5840636</a></li>
+</ul>
+
+<h4 id="abstract">Abstract:</h4>
+<blockquote>
+  <p><sup> Digital restoration of fossils based on computed tomographic (CT) imaging and other scanning technologies has become routine in paleontology. Digital restoration includes the retrodeformation and reconstruction of a fossil specimen. The former involves modification of the original 3D model to reverse post-mortem brittle and plastic deformation; and the latter involves the infilling of fractures, addition of missing pieces, and smoothing of the mesh surface. The restoration process often involves digital editing of the specimen in ways that are difficult to document and reproduce. To record all actions taken during the digital restoration of a fossil, we outline a workflow that generates both the restored bone and the sequence of steps involved in its retrodeformation and reconstruction. Our method can also generate an animation showing the transformation of the original digital model into its final form. We applied this method to a dorsal rib and frontal bone of a small-bodied Jurassic-age armored dinosaur from Africa, the digital restoration of which engaged all modalities of deformation (translation, rotation, scaling, distortion) and reconstruction (fracture infilling, adding missing bone, surface smoothing). Each bone was CT-scanned, segmented, and imported into Blender, an open-source 3D-graphics animation program. Blender has an animation tool called an “armature” that allows for precise control over portions of a surface mesh while keeping a record of manipulations. To retrodeform a fossil, an armature is created and then linked, or “rigged,” to the fossil in order to control the displacement and distortion of its fragments. After using the armature to perform retrodeformation, we use Blender to record the movement and distortion of each fragment and also record reconstructive modifications. By ensuring documentation and reproducibility in an open-source program, our workflow and output open a window onto the heretofore largely hidden process of digital restoration in paleontology. </sup></p>
+</blockquote>
 
   </div>
 
@@ -92,23 +136,9 @@
   </a>
 </li>
 <li>
-  <a rel="me" href="https://www.threads.net/@rainapelta" target="_blank" title="threads">
-    <svg class="svg-icon grey">
-      <use xlink:href="/assets/minima-social-icons.svg#threads"></use>
-    </svg>
-  </a>
-</li>
-<li>
   <a rel="me" href="https://twitter.com/rainapelta" target="_blank" title="twitter">
     <svg class="svg-icon grey">
       <use xlink:href="/assets/minima-social-icons.svg#twitter"></use>
-    </svg>
-  </a>
-</li>
-<li>
-  <a rel="me" href="https://www.researchgate.net/profile/Raina-Devries" target="_blank" title="researchgate">
-    <svg class="svg-icon grey">
-      <use xlink:href="/assets/minima-social-icons.svg#researchgate"></use>
     </svg>
   </a>
 </li>
@@ -120,16 +150,16 @@
   </a>
 </li>
 <li>
-  <a rel="me" href="https://orcid.org/0000-0001-8246-5503" target="_blank" title="orcid">
+  <a rel="me" href="https://www.researchgate.net/profile/Raina-Devries" target="_blank" title="researchgate">
     <svg class="svg-icon grey">
-      <use xlink:href="/assets/minima-social-icons.svg#orcid"></use>
+      <use xlink:href="/assets/minima-social-icons.svg#researchgate"></use>
     </svg>
   </a>
 </li>
 <li>
-  <a rel="me" href="https://scholar.google.com/citations?hl=en&user=Gaq7eOUAAAAJ" target="_blank" title="google_scholar">
+  <a rel="me" href="https://orcid.org/0000-0001-8246-5503" target="_blank" title="orcid">
     <svg class="svg-icon grey">
-      <use xlink:href="/assets/minima-social-icons.svg#google_scholar"></use>
+      <use xlink:href="/assets/minima-social-icons.svg#orcid"></use>
     </svg>
   </a>
 </li>
