@@ -1,10 +1,10 @@
 ---
 layout: post
 title: UChicago Darwinian Sciences Cluster Retreat 2023
-permalink: /04_DarwinConference_2023/
+permalink: /05_DarwinConference_2023/
 description: Dinosaur-related adventures.
 categories: updates
-tags: dinosaur UChicago 2023 digital-restoration software
+tags: dinosaur UChicago 2023 digital-restoration software conference
 published: false
 ---
 
