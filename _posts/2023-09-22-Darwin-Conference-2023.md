@@ -14,4 +14,4 @@ More details on *FossilScope* [**here**](https://rainadevries.com/01_SoftwareDev
 
 | <img src="/assets/post-imgs/ToScANA_2023.png" alt="Me presenting my poster, FossilScope" width=380px> |
 |:--:|
-| <sup> Presenting *FossilScope* at ToScANA 2023. </sup> |
+| <sup> Presenting *FossilScope* at UChicago Darwinian Sciences Cluster Retreat 2023. </sup> |
