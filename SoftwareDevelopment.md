@@ -40,3 +40,9 @@ We introduce *FossilScope*, a free application that will allow the user to direc
 | <img src="/assets/FossilScope_MainFig.png" alt="Click-to-select in FossilScope." width=1000px> |
 |:--:|
 | <sup> **Fig 2.** Clicking to select a bone (left femur of *Spinosaurus*) for inspection in *FossilScope*. </sup> |
+
+The most recent interactive demo of *FossilScope* features the flesh and skeletal models of *Spinosaurus aegyptiacus*. The user can toggle the visibility of the flesh model on or off to access the bones of the skeleton. With the flesh model visible, the user can click on a flesh partition (demo: trunk sail) or the center of mass to view a summary note and important statistics. With the flesh model hidden, the user can click on a bone in the skeleton (demo: femur & calcaneum) to view a summary note, fossil specimen ID(s), an outline of the restorative steps taken, and images of the original bone(s) or reference images of a sculpted bone. Bone regions (demo: hind limb) can be selected with shift-click to view a summary note, fossil specimen IDs, and images. Muscles can also be clicked (demo: mAMES = adductor mandibulae externus superficialis muscle) to view important statistics and additional notes. Text information can be hyperlinked to take the user to the desired webpage on-click (e.g., paper citation or online CT data). This interactive demo is only the beginning of *FossilScope*, and we plan to include many more features in the final product.
+
+| <img src="/assets/post-imgs/DarwinConference_2023.png" alt="Me presenting my poster and interactive demo, FossilScope" width=420px> |
+|:--:|
+| <sup> Presenting *FossilScope* at UChicago Darwinian Sciences Cluster Retreat 2023. </sup> |
