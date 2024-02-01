@@ -16,4 +16,4 @@ More details on *FossilScope* [**here**](https://rainadevries.com/01_SoftwareDev
 
 | <img src="/assets/post-imgs/DarwinConference_2023.png" alt="Me presenting my poster and interactive demo, FossilScope" width=420px> |
 |:--:|
-| <sup> Presenting *FossilScope* at the UChicago Darwinian Sciences Cluster Retreat 2023. </sup> |
+| <sup> Presenting *FossilScope* at the UChicago Darwinian Sciences Cluster Retreat 2023. <br> PC: April Neander </sup> |
